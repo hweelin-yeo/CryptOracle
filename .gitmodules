@@ -1,4 +1,4 @@
-[submodule "CryptOracle"]
-	path = CryptOracle
+[submodule "Stocktwits"]
+	path = CryptOracle/stocktwits
 	url = https://github.com/hweelin-yeo/CryptOracle/
 	branch = master
