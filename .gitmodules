@@ -1,0 +1,4 @@
+[submodule "CryptOracle"]
+	path = CryptOracle
+	url = https://github.com/hweelin-yeo/CryptOracle/
+	branch = master
