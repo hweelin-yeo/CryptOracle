@@ -6,7 +6,8 @@
 window is set as +- 1 hour?
 4. Historical price data -  (timestamp, symbol, price, volume, trend in price)
 5. Cryptospecific feature (timestamp, symbol, hashrate)
-4. Combined dataset tuple - (timestamp, symbol, price, volume, trend in price, sentiment, trend in sentiment, tweet, hashrate)
+6. Combined dataset tuple - (timestamp, symbol, price, volume, trend in price, sentiment, trend in sentiment, tweet, hashrate)
+7. Model - think of inputs
 
 ## Original resources
 - Getting StockTwits data: https://github.com/hamx0r/stocktwits
