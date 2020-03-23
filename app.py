@@ -52,8 +52,12 @@ def without_token_get_stock_stream(symbol, output_filename, params={}):
   result = R.get_json(ST_BASE_URL + 'streams/symbol/{}.json'.format(symbol))
   
   print(result)
+  if os.path.isfile(output_filename):
+    f = open(output_filename, "a+")
+  else:
+    f = open(output_filename, "w")
+
   f.write(json.dumps(result))
-  f.write("/****End****/")
   f.close()
   return result
 
