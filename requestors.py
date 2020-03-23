@@ -17,7 +17,7 @@ import requests
 
 # StockTwits details
 ST_BASE_URL = 'https://api.stocktwits.com/api/2/'
-ST_ACCESS_TOKEN = '2807d9d745842954fed32491c3d89242465dc33c'
+ST_ACCESS_TOKEN = 'c3f31692d668094e37e0146d2e6687809df9313a'
 ST_BASE_PARAMS = dict(access_token=ST_ACCESS_TOKEN)
 #os.getenv('ST_ACCESS_TOKEN'))
 

@@ -12,6 +12,7 @@ window is set as +- 1 hour?
 ## Original resources
 - Getting StockTwits data: https://github.com/hamx0r/stocktwits
 - Stocktwits: https://api.stocktwits.com/developers/docs/authentication
+- Python, Heroku, Flask: https://medium.com/@dushan14/create-a-web-application-with-python-flask-postgresql-and-deploy-on-heroku-243d548335cc
 
 # From this repo
 - Navigate to stocktwits

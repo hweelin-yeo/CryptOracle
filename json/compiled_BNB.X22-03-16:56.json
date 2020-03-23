@@ -1,0 +1,2054 @@
+{
+  "cursor": {
+    "max": 199712913,
+    "since": 201937115,
+    "more": true
+  },
+  "symbol": {
+    "watchlist_count": 5149,
+    "title": "Binance",
+    "symbol": "BNB.X",
+    "is_following": false,
+    "id": 13873,
+    "aliases": []
+  },
+  "messages": [
+    {
+      "body": "$BNB.X Short activity, 11111 BNB traded @ $12.189",
+      "entities": {
+        "sentiment": null
+      },
+      "created_at": "2020-03-22T10:13:04Z",
+      "mentioned_users": [],
+      "symbols": [
+        {
+          "watchlist_count": 5151,
+          "title": "Binance",
+          "symbol": "BNB.X",
+          "is_following": false,
+          "id": 13873,
+          "aliases": []
+        }
+      ],
+      "source": {
+        "url": "http://stocktwits.com",
+        "id": 4676,
+        "title": "Cryptonomia feed"
+      },
+      "user": {
+        "username": "Cryptonomia",
+        "plus_tier": "",
+        "name": "Cryptonomia",
+        "classification": [],
+        "official": false,
+        "like_count": 54,
+        "ideas": 10131,
+        "premium_room": "",
+        "following": 1,
+        "join_date": "2019-03-18",
+        "avatar_url": "https://avatars.stocktwits.com/production/1946005/thumb-1567508790.png",
+        "followers": 461,
+        "watchlist_stocks_count": 13,
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1946005/thumb-1567508790.png",
+        "trade_app": false,
+        "id": 1946005,
+        "identity": "User"
+      },
+      "reshared_by_self": false,
+      "liked_by_self": false,
+      "id": 201937115
+    },
+    {
+      "body": "$LINK.X I am more bullish than December 2017. I feel like BTC halving will send all crypto to the moon Ì†ºÌºô my guess top gainer will be $link $BSV.X $BNB.X",
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      },
+      "created_at": "2020-03-22T04:27:05Z",
+      "mentioned_users": [],
+      "symbols": [
+        {
+          "watchlist_count": 5151,
+          "title": "Binance",
+          "symbol": "BNB.X",
+          "is_following": false,
+          "id": 13873,
+          "aliases": []
+        },
+        {
+          "watchlist_count": 3967,
+          "title": "ChainLink",
+          "symbol": "LINK.X",
+          "is_following": false,
+          "id": 14032,
+          "aliases": []
+        },
+        {
+          "watchlist_count": 139,
+          "title": "Interlink Electronics Inc",
+          "symbol": "LINK",
+          "is_following": false,
+          "id": 14605,
+          "aliases": []
+        },
+        {
+          "watchlist_count": 3473,
+          "title": "Bitcoin SV",
+          "symbol": "BSV.X",
+          "is_following": false,
+          "id": 15047,
+          "aliases": []
+        }
+      ],
+      "source": {
+        "url": "http://www.stocktwits.com/mobile",
+        "id": 1149,
+        "title": "StockTwits for iOS"
+      },
+      "user": {
+        "username": "mdbsucre",
+        "plus_tier": "",
+        "name": "Mamadou bah",
+        "classification": [],
+        "official": false,
+        "like_count": 167,
+        "ideas": 77,
+        "premium_room": "",
+        "following": 2,
+        "join_date": "2018-10-03",
+        "avatar_url": "https://avatars.stocktwits.com/production/1640893/thumb-1584206752.png",
+        "followers": 2,
+        "watchlist_stocks_count": 16,
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1640893/thumb-1584206752.png",
+        "trade_app": false,
+        "id": 1640893,
+        "identity": "User"
+      },
+      "reshared_by_self": false,
+      "liked_by_self": false,
+      "id": 201928418,
+      "likes": {
+        "user_ids": [
+          3010385,
+          2165220,
+          1027976,
+          1340415
+        ],
+        "total": 4
+      }
+    },
+    {
+      "body": "$BNB.X /$BTC.X Ì†ΩÌ≥à SMA 50 &amp; 200 CrossOver Alert | Interval: 1h",
+      "entities": {
+        "chart": {
+          "large": "https://charts.stocktwits.com/production/large_201918982.png",
+          "url": "https://charts.stocktwits.com/production/original_201918982.png",
+          "thumb": "https://charts.stocktwits.com/production/small_201918982.png",
+          "original": "https://charts.stocktwits.com/production/original_201918982.png"
+        },
+        "sentiment": null
+      },
+      "created_at": "2020-03-22T02:00:05Z",
+      "mentioned_users": [],
+      "symbols": [
+        {
+          "watchlist_count": 157059,
+          "title": "Bitcoin BTC/USD",
+          "symbol": "BTC.X",
+          "is_following": false,
+          "id": 11418,
+          "aliases": [
+            "BTCUSD"
+          ]
+        },
+        {
+          "watchlist_count": 5150,
+          "title": "Binance",
+          "symbol": "BNB.X",
+          "is_following": false,
+          "id": 13873,
+          "aliases": []
+        }
+      ],
+      "source": {
+        "url": "http://stocktwits.com",
+        "id": 4676,
+        "title": "Cryptonomia feed"
+      },
+      "user": {
+        "username": "Cryptonomia",
+        "plus_tier": "",
+        "name": "Cryptonomia",
+        "classification": [],
+        "official": false,
+        "like_count": 54,
+        "ideas": 10127,
+        "premium_room": "",
+        "following": 1,
+        "join_date": "2019-03-18",
+        "avatar_url": "https://avatars.stocktwits.com/production/1946005/thumb-1567508790.png",
+        "followers": 460,
+        "watchlist_stocks_count": 13,
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1946005/thumb-1567508790.png",
+        "trade_app": false,
+        "id": 1946005,
+        "identity": "User"
+      },
+      "reshared_by_self": false,
+      "liked_by_self": false,
+      "id": 201918982,
+      "likes": {
+        "user_ids": [
+          2991199
+        ],
+        "total": 1
+      }
+    },
+    {
+      "body": "$KCS.X  $BCH.X $ETH.X $TRX.X  $BNB.X  \nHere is the great futureplans from an  great Crypto Exchange #kucoin \nhttps://medium.com/kucoinexchange/recap-of-ama-with-michael-johnny-whats-next-for-kumex-pool-x-kuchain-ed57528327b6",
+      "links": [
+        {
+          "description": "At 20:00 on March 17, 2020 (UTC+8), Michael Gan, the Chairman of KuGroup, and Johnny Lyu, the CEO of KuCoin Global, attended an AMA in the KuCoin English Telegram Group answering questions about the KuGroup and KuCoin's upcoming plans: KuChain, KuCloud & new KCS bonus plan, etc,.",
+          "video_url": null,
+          "title": "Recap of AMA with Michael & Johnny: What's Next for KuMEX, Pool-X & KuChain?",
+          "url": "https://medium.com/kucoinexchange/recap-of-ama-with-michael-johnny-whats-next-for-kumex-pool-x-kuchain-ed57528327b6",
+          "image": "https://miro.medium.com/max/1200/1*uDmiV-zd0AFdDUv4VCvnHw.jpeg",
+          "shortened_expanded_url": "medium.com/kucoinexchange/r...",
+          "source": {
+            "website": "https://medium.com",
+            "name": "Medium"
+          },
+          "shortened_url": "https://medium.com/kucoinexchange/recap-of-ama-with-michael-johnny-whats-next-for-kumex-pool-x-kuchain-ed57528327b6",
+          "created_at": "2020-03-21T16:24:53Z"
+        }
+      ],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      },
+      "created_at": "2020-03-21T16:24:51Z",
+      "mentioned_users": [],
+      "symbols": [
+        {
+          "watchlist_count": 70308,
+          "title": "Ethereum",
+          "symbol": "ETH.X",
+          "is_following": false,
+          "id": 13016,
+          "aliases": [
+            "ETHUSD"
+          ]
+        },
+        {
+          "watchlist_count": 18663,
+          "title": "Bitcoin Cash",
+          "symbol": "BCH.X",
+          "is_following": false,
+          "id": 13830,
+          "aliases": [
+            "BCC.X"
+          ]
+        },
+        {
+          "watchlist_count": 5150,
+          "title": "Binance",
+          "symbol": "BNB.X",
+          "is_following": false,
+          "id": 13873,
+          "aliases": []
+        },
+        {
+          "watchlist_count": 28747,
+          "title": "Tronix",
+          "symbol": "TRX.X",
+          "is_following": false,
+          "id": 14196,
+          "aliases": []
+        },
+        {
+          "watchlist_count": 540,
+          "title": "KuCoin Shares",
+          "symbol": "KCS.X",
+          "is_following": false,
+          "id": 14291,
+          "aliases": []
+        }
+      ],
+      "source": {
+        "url": "https://stocktwits.com",
+        "id": 2269,
+        "title": "StockTwits Web"
+      },
+      "user": {
+        "username": "Moneycom",
+        "plus_tier": "",
+        "name": "Marius Schulze",
+        "classification": [],
+        "official": false,
+        "like_count": 19,
+        "ideas": 36,
+        "premium_room": "",
+        "following": 19,
+        "join_date": "2020-02-15",
+        "avatar_url": "https://avatars.stocktwits.com/production/3098650/thumb-1581754822.png",
+        "followers": 2,
+        "watchlist_stocks_count": 7,
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3098650/thumb-1581754822.png",
+        "trade_app": false,
+        "id": 3098650,
+        "identity": "User"
+      },
+      "reshared_by_self": false,
+      "liked_by_self": false,
+      "id": 201870843,
+      "likes": {
+        "user_ids": [
+          2150912
+        ],
+        "total": 1
+      }
+    },
+    {
+      "body": "$BNB.X $KCS.X https://www.youtube.com/watch?v=bYzvjgmpFWA&amp;feature=share \nIDG-Backed Crypto Exchange KuCoin Establishes KuGroup to Expand Services $ETH.X",
+      "links": [
+        {
+          "description": "Please change your life!!! Click on the link! http://youtube.com+watch=@3162039724/AyAb Can you afford this thing?: http://youtube.com+watch=@3162039724/orwT...",
+          "video_url": "//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FbYzvjgmpFWA%3Ffeature%3Doembed=YouTube=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DbYzvjgmpFWA=https%3A%2F%2Fi.ytimg.com%2Fvi%2FbYzvjgmpFWA%2Fhqdefault.jpg=799f78c4081511e084894040444cdc60=text%2Fhtml=youtube",
+          "title": "IDG-Backed Crypto Exchange KuCoin Establishes KuGroup to Expand Services",
+          "url": "https://www.youtube.com/watch?v=bYzvjgmpFWA&feature=share",
+          "image": "https://i.ytimg.com/vi/bYzvjgmpFWA/hqdefault.jpg",
+          "shortened_expanded_url": "youtube.com/watch?v=bYzvjgm...",
+          "source": {
+            "website": "https://www.youtube.com/",
+            "name": "YouTube"
+          },
+          "shortened_url": "https://www.youtube.com/watch?v=bYzvjgmpFWA&feature=share",
+          "created_at": "2020-03-21T16:17:46Z"
+        }
+      ],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      },
+      "created_at": "2020-03-21T16:17:44Z",
+      "mentioned_users": [],
+      "symbols": [
+        {
+          "watchlist_count": 70307,
+          "title": "Ethereum",
+          "symbol": "ETH.X",
+          "is_following": false,
+          "id": 13016,
+          "aliases": [
+            "ETHUSD"
+          ]
+        },
+        {
+          "watchlist_count": 5150,
+          "title": "Binance",
+          "symbol": "BNB.X",
+          "is_following": false,
+          "id": 13873,
+          "aliases": []
+        },
+        {
+          "watchlist_count": 540,
+          "title": "KuCoin Shares",
+          "symbol": "KCS.X",
+          "is_following": false,
+          "id": 14291,
+          "aliases": []
+        }
+      ],
+      "source": {
+        "url": "https://stocktwits.com",
+        "id": 2269,
+        "title": "StockTwits Web"
+      },
+      "user": {
+        "username": "Moneycom",
+        "plus_tier": "",
+        "name": "Marius Schulze",
+        "classification": [],
+        "official": false,
+        "like_count": 19,
+        "ideas": 36,
+        "premium_room": "",
+        "following": 19,
+        "join_date": "2020-02-15",
+        "avatar_url": "https://avatars.stocktwits.com/production/3098650/thumb-1581754822.png",
+        "followers": 2,
+        "watchlist_stocks_count": 7,
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3098650/thumb-1581754822.png",
+        "trade_app": false,
+        "id": 3098650,
+        "identity": "User"
+      },
+      "reshared_by_self": false,
+      "liked_by_self": false,
+      "id": 201870207
+    },
+    {
+      "body": "$BNB.X Buying binance coin hand over fist. With 2bln spot volumes on average the past 30 days. The revenue is 3mln per day, i.e. 1,1bln per year. With roughly 50% profit margin that is 550mln$ profit and 20% going to burn that is 110mln for burn. With 12$ per coin we burn 9mln coins. On total remaining supply of 183mln that is 5% yield. Assume 100% payout that is a 25% yield on ROE. No debt. Cash at hand is probably &gt;1bln (this is probably in bitcoin/eth/usdt/bnb denominated retained earnings). So extracting those profits, the business is even cheaper. Powerhouse. Big risk: no share of course, relies on faith in Changpeng that he will reward coinholders.  \n \nIn my calculation on the other side, I am conservative, excluding futures &amp; margin revenues (and IEO, and WazirX and FTT related profits/expenses).",
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      },
+      "created_at": "2020-03-21T15:06:17Z",
+      "mentioned_users": [],
+      "symbols": [
+        {
+          "watchlist_count": 5150,
+          "title": "Binance",
+          "symbol": "BNB.X",
+          "is_following": false,
+          "id": 13873,
+          "aliases": []
+        }
+      ],
+      "source": {
+        "url": "https://stocktwits.com",
+        "id": 2269,
+        "title": "StockTwits Web"
+      },
+      "user": {
+        "username": "fullbull",
+        "plus_tier": "",
+        "name": "Full bull",
+        "classification": [],
+        "official": false,
+        "like_count": 466,
+        "ideas": 1143,
+        "premium_room": "",
+        "following": 59,
+        "join_date": "2016-11-02",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "followers": 16,
+        "watchlist_stocks_count": 16,
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "trade_app": false,
+        "id": 871400,
+        "identity": "User"
+      },
+      "reshared_by_self": false,
+      "liked_by_self": false,
+      "id": 201864108
+    },
+    {
+      "body": "Liquidity Crisis Continues: BitMEX Wick Reaches $8,700 o...\nhttps://faws.com/news/26358331\n$POINT $BTC.X $BNB.X $PLG",
+      "links": [
+        {
+          "description": "Last week, Bitcoin plummeted from $7,500 to $3,800 at the extreme point of the low, as a result of a coronavirus panic-induced selloff combined with a liquidity crisis and potential DDoS attack on BitMEX that created a cascade of liquidations driving the price of Bitcoin down at a rapid rate.",
+          "video_url": null,
+          "title": "Liquidity Crisis Continues: BitMEX Wick Reaches $8,700 on Bitcoin Futures",
+          "url": "https://faws.com/news/26358331",
+          "image": "https://asset.faws.com/media/entries/26358331.jpg",
+          "shortened_expanded_url": "faws.com/news/26358331",
+          "source": {
+            "website": "https://faws.com",
+            "name": "NewsBTC"
+          },
+          "shortened_url": "https://faws.com/news/26358331",
+          "created_at": "2020-03-20T19:04:38Z"
+        }
+      ],
+      "entities": {
+        "chart": {
+          "large": "https://charts.stocktwits.com/production/large_201760202.jpg",
+          "url": "https://charts.stocktwits.com/production/original_201760202.jpg",
+          "thumb": "https://charts.stocktwits.com/production/small_201760202.jpg",
+          "original": "https://charts.stocktwits.com/production/original_201760202.jpg"
+        },
+        "sentiment": null
+      },
+      "created_at": "2020-03-20T19:04:35Z",
+      "mentioned_users": [],
+      "symbols": [
+        {
+          "watchlist_count": 3565,
+          "title": "Platinum Group Metals Ltd.",
+          "symbol": "PLG",
+          "is_following": false,
+          "id": 463,
+          "aliases": []
+        },
+        {
+          "watchlist_count": 157148,
+          "title": "Bitcoin BTC/USD",
+          "symbol": "BTC.X",
+          "is_following": false,
+          "id": 11418,
+          "aliases": [
+            "BTCUSD"
+          ]
+        },
+        {
+          "watchlist_count": 5150,
+          "title": "Binance",
+          "symbol": "BNB.X",
+          "is_following": false,
+          "id": 13873,
+          "aliases": []
+        }
+      ],
+      "source": {
+        "url": "https://faws.com",
+        "id": 3541,
+        "title": "Faws"
+      },
+      "user": {
+        "username": "Faws",
+        "plus_tier": "",
+        "name": "Faws.com",
+        "classification": [],
+        "official": false,
+        "like_count": 0,
+        "ideas": 52115,
+        "premium_room": "",
+        "following": 0,
+        "join_date": "2017-08-29",
+        "avatar_url": "https://avatars.stocktwits.com/production/1171931/thumb-1504728208.png",
+        "followers": 690,
+        "watchlist_stocks_count": 18,
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1171931/thumb-1504728208.png",
+        "trade_app": false,
+        "id": 1171931,
+        "identity": "User"
+      },
+      "reshared_by_self": false,
+      "liked_by_self": false,
+      "id": 201760202
+    },
+    {
+      "body": "$BNB.X Binance has over &gt;1bln$ in cumulative profits. So with a current marketcap of 183mln total coins * 12,80$= 2,3bln. This means that we are at twice cash booklevel. With profits of ~300mln per year. And Q1 2020 has a higher runrate than the ~70mln per quarter due to the higher volumes. Impact of binance cloud is also underestimated imho, imagine banks and brokers connecting to binance cloud to offer crypto trades to their customers. Benefitting from the current liquidity in the binance orderbooks. Binance on its way to become the NASDAQ of crypto.",
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      },
+      "created_at": "2020-03-20T15:16:03Z",
+      "mentioned_users": [],
+      "symbols": [
+        {
+          "watchlist_count": 5150,
+          "title": "Binance",
+          "symbol": "BNB.X",
+          "is_following": false,
+          "id": 13873,
+          "aliases": []
+        }
+      ],
+      "source": {
+        "url": "https://stocktwits.com",
+        "id": 2269,
+        "title": "StockTwits Web"
+      },
+      "user": {
+        "username": "fullbull",
+        "plus_tier": "",
+        "name": "Full bull",
+        "classification": [],
+        "official": false,
+        "like_count": 466,
+        "ideas": 1143,
+        "premium_room": "",
+        "following": 59,
+        "join_date": "2016-11-02",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "followers": 16,
+        "watchlist_stocks_count": 16,
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "trade_app": false,
+        "id": 871400,
+        "identity": "User"
+      },
+      "reshared_by_self": false,
+      "liked_by_self": false,
+      "id": 201694432
+    },
+    {
+      "body": "Bitcoin smart contract platforms RSK and RIF get new AML solu...\nhttps://faws.com/news/26355246\n$ETH.X $BTC.X $BNB.X",
+      "links": [
+        {
+          "description": "Tech regulatory company Coinfirm has announced that it will begin providing RSK and RIF protocols with an anti-money laundering compliance solution. According to a press release shared with CryptoSlate, the company partnered with IOV Labs to deliver the solutions that will enable traditional financial institutions to engage with the two...",
+          "video_url": null,
+          "title": "Bitcoin smart contract platforms RSK and RIF get new AML solutions from Coinfirm",
+          "url": "https://faws.com/news/26355246",
+          "image": "https://asset.faws.com/media/entries/26355246.jpg",
+          "shortened_expanded_url": "faws.com/news/26355246",
+          "source": {
+            "website": "https://faws.com",
+            "name": "CryptoSlate"
+          },
+          "shortened_url": "https://faws.com/news/26355246",
+          "created_at": "2020-03-20T10:02:22Z"
+        }
+      ],
+      "entities": {
+        "chart": {
+          "large": "https://charts.stocktwits.com/production/large_201621972.jpg",
+          "url": "https://charts.stocktwits.com/production/original_201621972.jpg",
+          "thumb": "https://charts.stocktwits.com/production/small_201621972.jpg",
+          "original": "https://charts.stocktwits.com/production/original_201621972.jpg"
+        },
+        "sentiment": null
+      },
+      "created_at": "2020-03-20T10:02:19Z",
+      "mentioned_users": [],
+      "symbols": [
+        {
+          "watchlist_count": 157091,
+          "title": "Bitcoin BTC/USD",
+          "symbol": "BTC.X",
+          "is_following": false,
+          "id": 11418,
+          "aliases": [
+            "BTCUSD"
+          ]
+        },
+        {
+          "watchlist_count": 70299,
+          "title": "Ethereum",
+          "symbol": "ETH.X",
+          "is_following": false,
+          "id": 13016,
+          "aliases": [
+            "ETHUSD"
+          ]
+        },
+        {
+          "watchlist_count": 5151,
+          "title": "Binance",
+          "symbol": "BNB.X",
+          "is_following": false,
+          "id": 13873,
+          "aliases": []
+        }
+      ],
+      "source": {
+        "url": "https://faws.com",
+        "id": 3541,
+        "title": "Faws"
+      },
+      "user": {
+        "username": "Faws",
+        "plus_tier": "",
+        "name": "Faws.com",
+        "classification": [],
+        "official": false,
+        "like_count": 0,
+        "ideas": 52110,
+        "premium_room": "",
+        "following": 0,
+        "join_date": "2017-08-29",
+        "avatar_url": "https://avatars.stocktwits.com/production/1171931/thumb-1504728208.png",
+        "followers": 690,
+        "watchlist_stocks_count": 18,
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1171931/thumb-1504728208.png",
+        "trade_app": false,
+        "id": 1171931,
+        "identity": "User"
+      },
+      "reshared_by_self": false,
+      "liked_by_self": false,
+      "id": 201621972
+    },
+    {
+      "body": "Bitcoin, regardless of global concerns, will continue being &#39;safe-ha...\nhttps://faws.com/news/26354615\n$BTC.X $BNB.X",
+      "links": [
+        {
+          "description": "People invest in Bitcoin believing it to be an uncorrelated asset; something which can be used as a hedge against financial calamity. Since Bitcoin was essentially born during one, the narrative only gets stronger. However, looking at recent price movements, several people have raised their doubts about Bitcoin's 'safe-haven' narrative....",
+          "video_url": null,
+          "title": "Bitcoin, regardless of global concerns, will continue being 'safe-haven': Binance's Coley",
+          "url": "https://faws.com/news/26354615",
+          "image": "https://asset.faws.com/media/entries/26354615.jpg",
+          "shortened_expanded_url": "faws.com/news/26354615",
+          "source": {
+            "website": "https://faws.com",
+            "name": "AMBCrypto"
+          },
+          "shortened_url": "https://faws.com/news/26354615",
+          "created_at": "2020-03-20T08:02:25Z"
+        }
+      ],
+      "entities": {
+        "chart": {
+          "large": "https://charts.stocktwits.com/production/large_201615697.jpg",
+          "url": "https://charts.stocktwits.com/production/original_201615697.jpg",
+          "thumb": "https://charts.stocktwits.com/production/small_201615697.jpg",
+          "original": "https://charts.stocktwits.com/production/original_201615697.jpg"
+        },
+        "sentiment": null
+      },
+      "created_at": "2020-03-20T08:02:21Z",
+      "mentioned_users": [],
+      "symbols": [
+        {
+          "watchlist_count": 157083,
+          "title": "Bitcoin BTC/USD",
+          "symbol": "BTC.X",
+          "is_following": false,
+          "id": 11418,
+          "aliases": [
+            "BTCUSD"
+          ]
+        },
+        {
+          "watchlist_count": 5151,
+          "title": "Binance",
+          "symbol": "BNB.X",
+          "is_following": false,
+          "id": 13873,
+          "aliases": []
+        }
+      ],
+      "source": {
+        "url": "https://faws.com",
+        "id": 3541,
+        "title": "Faws"
+      },
+      "user": {
+        "username": "Faws",
+        "plus_tier": "",
+        "name": "Faws.com",
+        "classification": [],
+        "official": false,
+        "like_count": 0,
+        "ideas": 52110,
+        "premium_room": "",
+        "following": 0,
+        "join_date": "2017-08-29",
+        "avatar_url": "https://avatars.stocktwits.com/production/1171931/thumb-1504728208.png",
+        "followers": 690,
+        "watchlist_stocks_count": 18,
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1171931/thumb-1504728208.png",
+        "trade_app": false,
+        "id": 1171931,
+        "identity": "User"
+      },
+      "reshared_by_self": false,
+      "liked_by_self": false,
+      "id": 201615697
+    },
+    {
+      "body": "Binance dominates stablecoin holdings as BUSD&#39;s market cap shoots up\nhttps://faws.com/news/26350784\n$STABL $BNB.X",
+      "links": [
+        {
+          "description": "The impact of the recent crypto-market crash has been significant and far-reaching, with the collective market capitalization falling from $294.93 billion on 19 February to $153.76 billion on 19 March, a fall of over 48% in a month. However, on the contrary, the crash doesn't seem to have adversely affected...",
+          "video_url": null,
+          "title": "Binance dominates stablecoin holdings as BUSD's market cap shoots up",
+          "url": "https://faws.com/news/26350784",
+          "image": "https://asset.faws.com/media/entries/26350784.jpg",
+          "shortened_expanded_url": "faws.com/news/26350784",
+          "source": {
+            "website": "https://faws.com",
+            "name": "AMBCrypto"
+          },
+          "shortened_url": "https://faws.com/news/26350784",
+          "created_at": "2020-03-19T20:31:30Z"
+        }
+      ],
+      "entities": {
+        "chart": {
+          "large": "https://charts.stocktwits.com/production/large_201533483.jpg",
+          "url": "https://charts.stocktwits.com/production/original_201533483.jpg",
+          "thumb": "https://charts.stocktwits.com/production/small_201533483.jpg",
+          "original": "https://charts.stocktwits.com/production/original_201533483.jpg"
+        },
+        "sentiment": null
+      },
+      "created_at": "2020-03-19T20:31:27Z",
+      "mentioned_users": [],
+      "symbols": [
+        {
+          "watchlist_count": 5150,
+          "title": "Binance",
+          "symbol": "BNB.X",
+          "is_following": false,
+          "id": 13873,
+          "aliases": []
+        }
+      ],
+      "source": {
+        "url": "https://faws.com",
+        "id": 3541,
+        "title": "Faws"
+      },
+      "user": {
+        "username": "Faws",
+        "plus_tier": "",
+        "name": "Faws.com",
+        "classification": [],
+        "official": false,
+        "like_count": 0,
+        "ideas": 52107,
+        "premium_room": "",
+        "following": 0,
+        "join_date": "2017-08-29",
+        "avatar_url": "https://avatars.stocktwits.com/production/1171931/thumb-1504728208.png",
+        "followers": 690,
+        "watchlist_stocks_count": 18,
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1171931/thumb-1504728208.png",
+        "trade_app": false,
+        "id": 1171931,
+        "identity": "User"
+      },
+      "reshared_by_self": false,
+      "liked_by_self": false,
+      "id": 201533483,
+      "likes": {
+        "user_ids": [
+          871400
+        ],
+        "total": 1
+      }
+    },
+    {
+      "body": "Binance adds P2P trading for 5 Latin American fiat currencies $BNB.X\n‚ñ∫ https://decrypt.co/?p=22942",
+      "links": [
+        {
+          "description": "Binance, the leading crypto exchange by volume, announced on Tuesday that it now supports five new fiat currencies from Latin America on its peer-to-peer (P2P) trading platform. The fiat currencies added were the Brazilian real (BRL), Argentine peso (ARS), Colombian peso (COP), Mexican peso (MXN), and Peruvian sol (PEN).",
+          "video_url": null,
+          "title": "Binance adds P2P trading for 5 Latin American fiat currencies - Decrypt",
+          "url": "https://decrypt.co/?p=22942",
+          "image": "https://cdn.decrypt.co/wp-content/uploads/2020/03/Latin-America-Binance-900x470.jpg",
+          "shortened_expanded_url": "decrypt.co/22942/binance-p2...",
+          "source": {
+            "website": "https://decrypt.co",
+            "name": "Decrypt"
+          },
+          "shortened_url": "https://decrypt.co/?p=22942",
+          "created_at": "2020-03-19T20:15:03Z"
+        }
+      ],
+      "entities": {
+        "sentiment": null
+      },
+      "created_at": "2020-03-19T20:15:01Z",
+      "mentioned_users": [],
+      "symbols": [
+        {
+          "watchlist_count": 5149,
+          "title": "Binance",
+          "symbol": "BNB.X",
+          "is_following": false,
+          "id": 13873,
+          "aliases": []
+        }
+      ],
+      "source": {
+        "url": "https://zapier.com/",
+        "id": 1022,
+        "title": "Zapier"
+      },
+      "user": {
+        "username": "Decrypt",
+        "plus_tier": "",
+        "name": "Decrypt",
+        "classification": [],
+        "official": false,
+        "like_count": 148,
+        "ideas": 1271,
+        "premium_room": "",
+        "following": 299,
+        "join_date": "2019-12-01",
+        "avatar_url": "https://avatars.stocktwits.com/production/2942766/thumb-1575222448.png",
+        "followers": 69,
+        "watchlist_stocks_count": 0,
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2942766/thumb-1575222448.png",
+        "trade_app": false,
+        "id": 2942766,
+        "identity": "User"
+      },
+      "reshared_by_self": false,
+      "liked_by_self": false,
+      "id": 201528889
+    },
+    {
+      "body": "$BNB.X is there a way to trade in BTC for BNB in Trust Wallet? thx",
+      "entities": {
+        "sentiment": null
+      },
+      "conversation": {
+        "in_reply_to_message_id": null,
+        "parent_message_id": 201422070,
+        "parent": true,
+        "replies": 4
+      },
+      "created_at": "2020-03-19T14:48:47Z",
+      "mentioned_users": [],
+      "symbols": [
+        {
+          "watchlist_count": 5150,
+          "title": "Binance",
+          "symbol": "BNB.X",
+          "is_following": false,
+          "id": 13873,
+          "aliases": []
+        }
+      ],
+      "source": {
+        "url": "https://stocktwits.com",
+        "id": 2269,
+        "title": "StockTwits Web"
+      },
+      "user": {
+        "username": "PoorJoe",
+        "plus_tier": "",
+        "name": "PoorJoe",
+        "classification": [],
+        "official": false,
+        "like_count": 1822,
+        "ideas": 2621,
+        "premium_room": "",
+        "following": 125,
+        "join_date": "2016-11-10",
+        "avatar_url": "https://avatars.stocktwits.com/production/875879/thumb-1516133801.png",
+        "followers": 36,
+        "watchlist_stocks_count": 80,
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/875879/thumb-1516133801.png",
+        "trade_app": false,
+        "id": 875879,
+        "identity": "User"
+      },
+      "reshared_by_self": false,
+      "liked_by_self": false,
+      "id": 201422070
+    },
+    {
+      "body": "$BTC.X  looking good $ICX.X $BNB.X",
+      "entities": {
+        "sentiment": null
+      },
+      "created_at": "2020-03-19T01:48:04Z",
+      "mentioned_users": [],
+      "symbols": [
+        {
+          "watchlist_count": 157050,
+          "title": "Bitcoin BTC/USD",
+          "symbol": "BTC.X",
+          "is_following": false,
+          "id": 11418,
+          "aliases": [
+            "BTCUSD"
+          ]
+        },
+        {
+          "watchlist_count": 5150,
+          "title": "Binance",
+          "symbol": "BNB.X",
+          "is_following": false,
+          "id": 13873,
+          "aliases": []
+        },
+        {
+          "watchlist_count": 3805,
+          "title": "ICON Project",
+          "symbol": "ICX.X",
+          "is_following": false,
+          "id": 14224,
+          "aliases": []
+        }
+      ],
+      "source": {
+        "url": "http://www.stocktwits.com/mobile",
+        "id": 1149,
+        "title": "StockTwits for iOS"
+      },
+      "user": {
+        "username": "Cryptosiao",
+        "plus_tier": "",
+        "name": "Cryptosiao",
+        "classification": [],
+        "official": false,
+        "like_count": 384,
+        "ideas": 278,
+        "premium_room": "",
+        "following": 0,
+        "join_date": "2017-12-29",
+        "avatar_url": "https://avatars.stocktwits.com/production/1339475/thumb-1514517121.png",
+        "followers": 7,
+        "watchlist_stocks_count": 20,
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1339475/thumb-1514517121.png",
+        "trade_app": false,
+        "id": 1339475,
+        "identity": "User"
+      },
+      "reshared_by_self": false,
+      "liked_by_self": false,
+      "id": 201317591
+    },
+    {
+      "body": "$TRX.X my bags are loaded, are yours? All I can say is hold on and enjoy the ride. It may come in a week or in a few years, either way I‚Äôll be ready. $BNB.X  $BTC.X",
+      "entities": {
+        "sentiment": null
+      },
+      "conversation": {
+        "in_reply_to_message_id": null,
+        "parent_message_id": 201078319,
+        "parent": true,
+        "replies": 2
+      },
+      "created_at": "2020-03-18T09:01:01Z",
+      "mentioned_users": [],
+      "symbols": [
+        {
+          "watchlist_count": 157126,
+          "title": "Bitcoin BTC/USD",
+          "symbol": "BTC.X",
+          "is_following": false,
+          "id": 11418,
+          "aliases": [
+            "BTCUSD"
+          ]
+        },
+        {
+          "watchlist_count": 5150,
+          "title": "Binance",
+          "symbol": "BNB.X",
+          "is_following": false,
+          "id": 13873,
+          "aliases": []
+        },
+        {
+          "watchlist_count": 28748,
+          "title": "Tronix",
+          "symbol": "TRX.X",
+          "is_following": false,
+          "id": 14196,
+          "aliases": []
+        }
+      ],
+      "source": {
+        "url": "http://www.stocktwits.com/mobile",
+        "id": 1149,
+        "title": "StockTwits for iOS"
+      },
+      "user": {
+        "username": "snate6",
+        "plus_tier": "",
+        "name": "Sal Padilla",
+        "classification": [],
+        "official": false,
+        "like_count": 22,
+        "ideas": 44,
+        "premium_room": "",
+        "following": 4,
+        "join_date": "2018-01-10",
+        "avatar_url": "https://avatars.stocktwits.com/production/1361338/thumb-1515648506.png",
+        "followers": 2,
+        "watchlist_stocks_count": 7,
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1361338/thumb-1515648506.png",
+        "trade_app": false,
+        "id": 1361338,
+        "identity": "User"
+      },
+      "reshared_by_self": false,
+      "liked_by_self": false,
+      "id": 201078319,
+      "likes": {
+        "user_ids": [
+          665298
+        ],
+        "total": 1
+      }
+    },
+    {
+      "body": "$BNB.X Issues Another $7M in BUSD Stablecoins to Boost Shattered Markets.\n\nREAD ‚û°Ô∏è https://beincrypto.com/binance-issues-another-7m-in-busd-stablecoins-to-boost-shattered-markets/?utm_source=stockwits&amp;utm_medium=social&amp;utm_campaign=binance&amp;utm_content=jd",
+      "links": [
+        {
+          "description": "The cryptocurrency market is still struggling to find itself after posting record losses on Thursday. Binance has decided to give it another cash injection of $7M. Binance, together with the PAX Treasury, has just issued over $7 million worth of its own One of the perceived drawbacks of cryptocurrency is the price volatility, value wildly spikes and falls, discouraging many people from...",
+          "video_url": null,
+          "title": "Binance Issues Another $7M in BUSD Stablecoins to Boost Shattered Markets - BeInCrypto",
+          "url": "https://beincrypto.com/binance-issues-another-7m-in-busd-stablecoins-to-boost-shattered-markets/?utm_source=stockwits&utm_medium=social&utm_campaign=binance&utm_content=jd",
+          "image": "https://s32659.pcdn.co/wp-content/uploads/2020/01/BIC_pax_busd_mint.jpg.optimal.jpg",
+          "shortened_expanded_url": "beincrypto.com/binance-issu...",
+          "source": {
+            "website": "https://beincrypto.com",
+            "name": "BeInCrypto"
+          },
+          "shortened_url": "https://beincrypto.com/binance-issues-another-7m-in-busd-stablecoins-to-boost-shattered-markets/?utm_source=stockwits&utm_medium=social&utm_campaign=binance&utm_content=jd",
+          "created_at": "2020-03-17T19:55:04Z"
+        }
+      ],
+      "entities": {
+        "chart": {
+          "large": "https://charts.stocktwits.com/production/large_200983651.png",
+          "url": "https://charts.stocktwits.com/production/original_200983651.png",
+          "thumb": "https://charts.stocktwits.com/production/small_200983651.png",
+          "original": "https://charts.stocktwits.com/production/original_200983651.png"
+        },
+        "sentiment": null
+      },
+      "created_at": "2020-03-17T19:55:02Z",
+      "mentioned_users": [],
+      "symbols": [
+        {
+          "watchlist_count": 5149,
+          "title": "Binance",
+          "symbol": "BNB.X",
+          "is_following": false,
+          "id": 13873,
+          "aliases": []
+        }
+      ],
+      "source": {
+        "url": "https://stocktwits.com",
+        "id": 2269,
+        "title": "StockTwits Web"
+      },
+      "user": {
+        "username": "BeInCrypto",
+        "plus_tier": "",
+        "name": "BeInCrypto",
+        "classification": [
+          "suggested"
+        ],
+        "official": false,
+        "like_count": 228,
+        "ideas": 4624,
+        "premium_room": "",
+        "following": 630,
+        "join_date": "2018-09-12",
+        "avatar_url": "https://avatars.stocktwits.com/production/1608144/thumb-1563191173.png",
+        "followers": 270,
+        "watchlist_stocks_count": 4,
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1608144/thumb-1563191173.png",
+        "trade_app": false,
+        "id": 1608144,
+        "identity": "User"
+      },
+      "reshared_by_self": false,
+      "liked_by_self": false,
+      "id": 200983651
+    },
+    {
+      "body": "In times of uncertainity and fear, Binance goes long on India\nhttps://faws.com/news/26332887\n$DEFI $BNB.X $DEX.X",
+      "links": [
+        {
+          "description": "Binance has partnered with cryptocurrency exchange WazirX to create a \"Blockchain for India\" fund worth $50 million. The fund plans on investing upwards of $100,000 in startups working on fiat-to-digital gateways, payment, and remittance solutions, DeFi, and trading platforms, the Economic Times reported. Binance boosting India's blockchain ecosystem with $50M...",
+          "video_url": null,
+          "title": "In times of uncertainity and fear, Binance goes long on India",
+          "url": "https://faws.com/news/26332887",
+          "image": "https://asset.faws.com/media/entries/26332887.jpg",
+          "shortened_expanded_url": "faws.com/news/26332887",
+          "source": {
+            "website": "https://faws.com",
+            "name": "CryptoSlate"
+          },
+          "shortened_url": "https://faws.com/news/26332887",
+          "created_at": "2020-03-17T19:40:26Z"
+        }
+      ],
+      "entities": {
+        "chart": {
+          "large": "https://charts.stocktwits.com/production/large_200979094.jpg",
+          "url": "https://charts.stocktwits.com/production/original_200979094.jpg",
+          "thumb": "https://charts.stocktwits.com/production/small_200979094.jpg",
+          "original": "https://charts.stocktwits.com/production/original_200979094.jpg"
+        },
+        "sentiment": null
+      },
+      "created_at": "2020-03-17T19:40:22Z",
+      "mentioned_users": [],
+      "symbols": [
+        {
+          "watchlist_count": 5149,
+          "title": "Binance",
+          "symbol": "BNB.X",
+          "is_following": false,
+          "id": 13873,
+          "aliases": []
+        }
+      ],
+      "source": {
+        "url": "https://faws.com",
+        "id": 3541,
+        "title": "Faws"
+      },
+      "user": {
+        "username": "Faws",
+        "plus_tier": "",
+        "name": "Faws.com",
+        "classification": [],
+        "official": false,
+        "like_count": 0,
+        "ideas": 52115,
+        "premium_room": "",
+        "following": 0,
+        "join_date": "2017-08-29",
+        "avatar_url": "https://avatars.stocktwits.com/production/1171931/thumb-1504728208.png",
+        "followers": 690,
+        "watchlist_stocks_count": 18,
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1171931/thumb-1504728208.png",
+        "trade_app": false,
+        "id": 1171931,
+        "identity": "User"
+      },
+      "reshared_by_self": false,
+      "liked_by_self": false,
+      "id": 200979094
+    },
+    {
+      "body": "$BNB.X Binance Green Lights Another $5M of Its Stablecoin to Enter Ma... \n‚û°Ô∏è https://beincrypto.com/binance-green-lights-another-5m-of-its-",
+      "links": [
+        {
+          "description": "Together with PAX Treasury, Binance is giving the cryptocurrency markets a cash injection of another $5M to further bolster markets in this difficult time. Cryptocurrency markets are rallying today amid early positive indicators from U.S. financial markets despite the fact that stocks couldn't hold onto their gains.",
+          "video_url": null,
+          "title": "Binance Green Lights Another $5M of Its Stablecoin to Enter Markets - BeInCrypto",
+          "url": "https://beincrypto.com/binance-green-lights-another-5m-of-its-",
+          "image": "https://s32659.pcdn.co/wp-content/uploads/2020/01/BIC_pax_busd_mint.jpg.optimal.jpg",
+          "shortened_expanded_url": "beincrypto.com/binance-gree...",
+          "source": {
+            "website": "https://beincrypto.com",
+            "name": "BeInCrypto"
+          },
+          "shortened_url": "https://beincrypto.com/binance-green-lights-another-5m-of-its-",
+          "created_at": "2020-03-17T19:22:53Z"
+        }
+      ],
+      "entities": {
+        "sentiment": null
+      },
+      "created_at": "2020-03-17T19:22:51Z",
+      "mentioned_users": [],
+      "symbols": [
+        {
+          "watchlist_count": 5150,
+          "title": "Binance",
+          "symbol": "BNB.X",
+          "is_following": false,
+          "id": 13873,
+          "aliases": []
+        }
+      ],
+      "source": {
+        "url": "https://zapier.com/",
+        "id": 1022,
+        "title": "Zapier"
+      },
+      "user": {
+        "username": "BeInCrypto",
+        "plus_tier": "",
+        "name": "BeInCrypto",
+        "classification": [
+          "suggested"
+        ],
+        "official": false,
+        "like_count": 228,
+        "ideas": 4624,
+        "premium_room": "",
+        "following": 630,
+        "join_date": "2018-09-12",
+        "avatar_url": "https://avatars.stocktwits.com/production/1608144/thumb-1563191173.png",
+        "followers": 270,
+        "watchlist_stocks_count": 4,
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1608144/thumb-1563191173.png",
+        "trade_app": false,
+        "id": 1608144,
+        "identity": "User"
+      },
+      "reshared_by_self": false,
+      "liked_by_self": false,
+      "id": 200973986
+    },
+    {
+      "body": "Binance and WazirX announce fund to boost Indian startup ecosystem\nhttps://faws.com/news/26328125\n$BNB.X",
+      "links": [
+        {
+          "description": "Malta-based cryptocurrency exchange Binance and Indian cryptocurrency exchange WazirX announced a joint initiative that aims to support the development and growth of blockchain startups in India. The two partners have set up USD 50 million 'Blockchain for India fund' (backed by BNB, BUSD, and WRX digital assets) to incubate and...",
+          "video_url": null,
+          "title": "Binance and WazirX announce fund to boost Indian startup ecosystem",
+          "url": "https://faws.com/news/26328125",
+          "image": "https://asset.faws.com/media/entries/26328125.jpg",
+          "shortened_expanded_url": "faws.com/news/26328125",
+          "source": {
+            "website": "https://faws.com",
+            "name": "AMBCrypto"
+          },
+          "shortened_url": "https://faws.com/news/26328125",
+          "created_at": "2020-03-17T04:16:28Z"
+        }
+      ],
+      "entities": {
+        "chart": {
+          "large": "https://charts.stocktwits.com/production/large_200819350.jpg",
+          "url": "https://charts.stocktwits.com/production/original_200819350.jpg",
+          "thumb": "https://charts.stocktwits.com/production/small_200819350.jpg",
+          "original": "https://charts.stocktwits.com/production/original_200819350.jpg"
+        },
+        "sentiment": null
+      },
+      "created_at": "2020-03-17T04:16:25Z",
+      "mentioned_users": [],
+      "symbols": [
+        {
+          "watchlist_count": 5150,
+          "title": "Binance",
+          "symbol": "BNB.X",
+          "is_following": false,
+          "id": 13873,
+          "aliases": []
+        }
+      ],
+      "source": {
+        "url": "https://faws.com",
+        "id": 3541,
+        "title": "Faws"
+      },
+      "user": {
+        "username": "Faws",
+        "plus_tier": "",
+        "name": "Faws.com",
+        "classification": [],
+        "official": false,
+        "like_count": 0,
+        "ideas": 52115,
+        "premium_room": "",
+        "following": 0,
+        "join_date": "2017-08-29",
+        "avatar_url": "https://avatars.stocktwits.com/production/1171931/thumb-1504728208.png",
+        "followers": 690,
+        "watchlist_stocks_count": 18,
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1171931/thumb-1504728208.png",
+        "trade_app": false,
+        "id": 1171931,
+        "identity": "User"
+      },
+      "reshared_by_self": false,
+      "liked_by_self": false,
+      "id": 200819350
+    },
+    {
+      "body": "Binance Launches $50M ‚ÄòBlockchain for India‚Äô Fund\nhttps://faws.com/news/26328117\n$BNB.X",
+      "links": [
+        {
+          "description": "Binance and its local subsidiary have set up a new fund to reinvigorate growth in blockchain startups in India following a Supreme Court decision to allow banks to service crypto firms. Binance and India-based bitcoin exchange WazirX - which Binance acquired last November - announced Tuesday their new \"Blockchain for India\" fund would incubate and invest in local startups that contribute to the creation of a sophisticated cryptocurrency and blockchain ecosystem for the subcontinent.",
+          "video_url": null,
+          "title": "Binance Launches $50M 'Blockchain for India' Fund",
+          "url": "https://faws.com/news/26328117",
+          "image": "https://asset.faws.com/media/entries/26328117.jpg",
+          "shortened_expanded_url": "faws.com/news/26328117",
+          "source": {
+            "website": "https://faws.com",
+            "name": "CoinDesk"
+          },
+          "shortened_url": "https://faws.com/news/26328117",
+          "created_at": "2020-03-17T04:12:24Z"
+        }
+      ],
+      "entities": {
+        "chart": {
+          "large": "https://charts.stocktwits.com/production/large_200819038.jpg",
+          "url": "https://charts.stocktwits.com/production/original_200819038.jpg",
+          "thumb": "https://charts.stocktwits.com/production/small_200819038.jpg",
+          "original": "https://charts.stocktwits.com/production/original_200819038.jpg"
+        },
+        "sentiment": null
+      },
+      "created_at": "2020-03-17T04:12:21Z",
+      "mentioned_users": [],
+      "symbols": [
+        {
+          "watchlist_count": 5150,
+          "title": "Binance",
+          "symbol": "BNB.X",
+          "is_following": false,
+          "id": 13873,
+          "aliases": []
+        }
+      ],
+      "source": {
+        "url": "https://faws.com",
+        "id": 3541,
+        "title": "Faws"
+      },
+      "user": {
+        "username": "Faws",
+        "plus_tier": "",
+        "name": "Faws.com",
+        "classification": [],
+        "official": false,
+        "like_count": 0,
+        "ideas": 52110,
+        "premium_room": "",
+        "following": 0,
+        "join_date": "2017-08-29",
+        "avatar_url": "https://avatars.stocktwits.com/production/1171931/thumb-1504728208.png",
+        "followers": 690,
+        "watchlist_stocks_count": 18,
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1171931/thumb-1504728208.png",
+        "trade_app": false,
+        "id": 1171931,
+        "identity": "User"
+      },
+      "reshared_by_self": false,
+      "liked_by_self": false,
+      "id": 200819038
+    },
+    {
+      "body": "$BNB.X Binance Issues Another $7M in BUSD Stablecoins to Boost Shatte... \n‚û°Ô∏è https://beincrypto.com/binance-issues-another-7m-in-busd-stabl",
+      "links": [
+        {
+          "description": "The cryptocurrency market is still struggling to find itself after posting record losses on Thursday. Binance has decided to give it another cash injection of $7M. Binance, together with the PAX Treasury, has just issued over $7 million worth of its own One of the perceived drawbacks of cryptocurrency is the price volatility, value wildly spikes and falls, discouraging many people from...",
+          "video_url": null,
+          "title": "Binance Issues Another $7M in BUSD Stablecoins to Boost Shattered Markets - BeInCrypto",
+          "url": "https://beincrypto.com/binance-issues-another-7m-in-busd-stabl",
+          "image": "https://s32659.pcdn.co/wp-content/uploads/2020/01/BIC_pax_busd_mint.jpg.optimal.jpg",
+          "shortened_expanded_url": "beincrypto.com/binance-issu...",
+          "source": {
+            "website": "https://beincrypto.com",
+            "name": "BeInCrypto"
+          },
+          "shortened_url": "https://beincrypto.com/binance-issues-another-7m-in-busd-stabl",
+          "created_at": "2020-03-15T08:22:08Z"
+        }
+      ],
+      "entities": {
+        "sentiment": null
+      },
+      "created_at": "2020-03-15T08:22:07Z",
+      "mentioned_users": [],
+      "symbols": [
+        {
+          "watchlist_count": 5151,
+          "title": "Binance",
+          "symbol": "BNB.X",
+          "is_following": false,
+          "id": 13873,
+          "aliases": []
+        }
+      ],
+      "source": {
+        "url": "https://zapier.com/",
+        "id": 1022,
+        "title": "Zapier"
+      },
+      "user": {
+        "username": "BeInCrypto",
+        "plus_tier": "",
+        "name": "BeInCrypto",
+        "classification": [
+          "suggested"
+        ],
+        "official": false,
+        "like_count": 228,
+        "ideas": 4623,
+        "premium_room": "",
+        "following": 630,
+        "join_date": "2018-09-12",
+        "avatar_url": "https://avatars.stocktwits.com/production/1608144/thumb-1563191173.png",
+        "followers": 270,
+        "watchlist_stocks_count": 4,
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1608144/thumb-1563191173.png",
+        "trade_app": false,
+        "id": 1608144,
+        "identity": "User"
+      },
+      "reshared_by_self": false,
+      "liked_by_self": false,
+      "id": 200449362
+    },
+    {
+      "body": "$BNB.X  good alternative ist https://www.kucoin.com/ \n \nbooth exchanges are the best",
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      },
+      "links": [
+        {
+          "description": "KuCoin is the most advanced and secure cryptocurrency exchange to buy and sell Bitcoin, Ethereum, Litecoin, TRON, USDT, NEO, XRP, KCS, and more. KuCoin also provide Excellent Support, Maker & Taker Transaction Fees, Open API",
+          "video_url": null,
+          "title": "KuCoin | Cryptocurrency Exchange | Buy & Sell Bitcoin, Ethereum, and more",
+          "url": "https://www.kucoin.com/",
+          "image": null,
+          "shortened_expanded_url": "kucoin.com/",
+          "source": {
+            "website": "https://www.kucoin.com",
+            "name": "Kucoin"
+          },
+          "shortened_url": "https://www.kucoin.com/",
+          "created_at": "2020-03-14T18:42:51Z"
+        }
+      ],
+      "conversation": {
+        "in_reply_to_message_id": null,
+        "parent_message_id": 200394114,
+        "parent": true,
+        "replies": 1
+      },
+      "created_at": "2020-03-14T18:42:48Z",
+      "mentioned_users": [],
+      "symbols": [
+        {
+          "watchlist_count": 5149,
+          "title": "Binance",
+          "symbol": "BNB.X",
+          "is_following": false,
+          "id": 13873,
+          "aliases": []
+        }
+      ],
+      "source": {
+        "url": "https://stocktwits.com",
+        "id": 2269,
+        "title": "StockTwits Web"
+      },
+      "user": {
+        "username": "Moneycom",
+        "plus_tier": "",
+        "name": "Marius Schulze",
+        "classification": [],
+        "official": false,
+        "like_count": 19,
+        "ideas": 36,
+        "premium_room": "",
+        "following": 19,
+        "join_date": "2020-02-15",
+        "avatar_url": "https://avatars.stocktwits.com/production/3098650/thumb-1581754822.png",
+        "followers": 2,
+        "watchlist_stocks_count": 7,
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3098650/thumb-1581754822.png",
+        "trade_app": false,
+        "id": 3098650,
+        "identity": "User"
+      },
+      "reshared_by_self": false,
+      "liked_by_self": false,
+      "id": 200394114
+    },
+    {
+      "body": "$BNB.X when is next BnB coin burn",
+      "entities": {
+        "sentiment": null
+      },
+      "created_at": "2020-03-13T19:19:13Z",
+      "mentioned_users": [],
+      "symbols": [
+        {
+          "watchlist_count": 5150,
+          "title": "Binance",
+          "symbol": "BNB.X",
+          "is_following": false,
+          "id": 13873,
+          "aliases": []
+        }
+      ],
+      "source": {
+        "url": "http://www.stocktwits.com/mobile",
+        "id": 2095,
+        "title": "StockTwits For Android "
+      },
+      "user": {
+        "username": "Inimeg",
+        "plus_tier": "",
+        "name": "Thomas Bell",
+        "classification": [],
+        "official": false,
+        "like_count": 221,
+        "ideas": 272,
+        "premium_room": "",
+        "following": 36,
+        "join_date": "2019-11-13",
+        "avatar_url": "https://avatars.stocktwits.com/production/2915589/thumb-1578342108.png",
+        "followers": 6,
+        "watchlist_stocks_count": 129,
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2915589/thumb-1578342108.png",
+        "trade_app": false,
+        "id": 2915589,
+        "identity": "User"
+      },
+      "reshared_by_self": false,
+      "liked_by_self": false,
+      "id": 200260299
+    },
+    {
+      "body": "$BNB.X I ducking love this coin",
+      "entities": {
+        "sentiment": null
+      },
+      "created_at": "2020-03-13T19:18:18Z",
+      "mentioned_users": [],
+      "symbols": [
+        {
+          "watchlist_count": 5150,
+          "title": "Binance",
+          "symbol": "BNB.X",
+          "is_following": false,
+          "id": 13873,
+          "aliases": []
+        }
+      ],
+      "source": {
+        "url": "http://www.stocktwits.com/mobile",
+        "id": 2095,
+        "title": "StockTwits For Android "
+      },
+      "user": {
+        "username": "Inimeg",
+        "plus_tier": "",
+        "name": "Thomas Bell",
+        "classification": [],
+        "official": false,
+        "like_count": 221,
+        "ideas": 272,
+        "premium_room": "",
+        "following": 36,
+        "join_date": "2019-11-13",
+        "avatar_url": "https://avatars.stocktwits.com/production/2915589/thumb-1578342108.png",
+        "followers": 6,
+        "watchlist_stocks_count": 129,
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2915589/thumb-1578342108.png",
+        "trade_app": false,
+        "id": 2915589,
+        "identity": "User"
+      },
+      "reshared_by_self": false,
+      "liked_by_self": false,
+      "id": 200260014
+    },
+    {
+      "body": "$LINK.X Briefly Traded for Almost $0 on $BNB.X \n\nREAD ‚û°Ô∏è https://beincrypto.com/link-briefly-traded-for-almost-0-on-binance/?utm_source=stockwits&amp;utm_medium=social&amp;utm_campaign=link&amp;utm_content=jd",
+      "links": [
+        {
+          "description": "LINK flash crashed today on Binance's LINK/USDT pair. Remarkably, the red candle dropped as low as it could possibly go: $0.00001. After touching new all-time highs, LINK holders were hit especially hard today amid the collapse. Stunningly, LINK is down some -37% on the daily today and is leading the top cryptocurrencies in losses.",
+          "video_url": null,
+          "title": "LINK Briefly Traded for Almost $0 on Binance - BeInCrypto",
+          "url": "https://beincrypto.com/link-briefly-traded-for-almost-0-on-binance/?utm_source=stockwits&utm_medium=social&utm_campaign=link&utm_content=jd",
+          "image": "https://s32659.pcdn.co/wp-content/uploads/2020/03/slack-imgs.com_.png",
+          "shortened_expanded_url": "beincrypto.com/link-briefly...",
+          "source": {
+            "website": "https://beincrypto.com",
+            "name": "BeInCrypto"
+          },
+          "shortened_url": "https://beincrypto.com/link-briefly-traded-for-almost-0-on-binance/?utm_source=stockwits&utm_medium=social&utm_campaign=link&utm_content=jd",
+          "created_at": "2020-03-13T16:16:18Z"
+        }
+      ],
+      "entities": {
+        "chart": {
+          "large": "https://charts.stocktwits.com/production/large_200208620.png",
+          "url": "https://charts.stocktwits.com/production/original_200208620.png",
+          "thumb": "https://charts.stocktwits.com/production/small_200208620.png",
+          "original": "https://charts.stocktwits.com/production/original_200208620.png"
+        },
+        "sentiment": null
+      },
+      "created_at": "2020-03-13T16:16:15Z",
+      "mentioned_users": [],
+      "symbols": [
+        {
+          "watchlist_count": 5150,
+          "title": "Binance",
+          "symbol": "BNB.X",
+          "is_following": false,
+          "id": 13873,
+          "aliases": []
+        },
+        {
+          "watchlist_count": 3968,
+          "title": "ChainLink",
+          "symbol": "LINK.X",
+          "is_following": false,
+          "id": 14032,
+          "aliases": []
+        }
+      ],
+      "source": {
+        "url": "https://stocktwits.com",
+        "id": 2269,
+        "title": "StockTwits Web"
+      },
+      "user": {
+        "username": "BeInCrypto",
+        "plus_tier": "",
+        "name": "BeInCrypto",
+        "classification": [
+          "suggested"
+        ],
+        "official": false,
+        "like_count": 228,
+        "ideas": 4624,
+        "premium_room": "",
+        "following": 630,
+        "join_date": "2018-09-12",
+        "avatar_url": "https://avatars.stocktwits.com/production/1608144/thumb-1563191173.png",
+        "followers": 270,
+        "watchlist_stocks_count": 4,
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1608144/thumb-1563191173.png",
+        "trade_app": false,
+        "id": 1608144,
+        "identity": "User"
+      },
+      "reshared_by_self": false,
+      "liked_by_self": false,
+      "id": 200208620,
+      "likes": {
+        "user_ids": [
+          969971
+        ],
+        "total": 1
+      }
+    },
+    {
+      "body": "$BNB.X Binance coin is a steal now, with record volumes and massive profits. I expect them to be trading at almost tangible book value (as far as you can speak of book value with crypto). Their total profits are &lt;1bln$. However, those profits probably sit in BTC, ETH and BNB mostly. Those dipped as well ofcourse. Their reserves must be at least 500mln. Now, current marketcap is 1,5bln. With 500mln of cash, we are left with 1bln marketcap. At 400mln profit per year (and I expect that to increase in 2020 due to massive volumes, also FY futures revenue) the P/E is &lt;3. And they do way more than only trading at the moment. A steal IMHO at any price below 10$. Disclaimer: LONG BNB and very risky &#39;asset&#39; ofcourse. FULLBULL",
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      },
+      "created_at": "2020-03-13T11:23:06Z",
+      "mentioned_users": [],
+      "symbols": [
+        {
+          "watchlist_count": 5150,
+          "title": "Binance",
+          "symbol": "BNB.X",
+          "is_following": false,
+          "id": 13873,
+          "aliases": []
+        }
+      ],
+      "source": {
+        "url": "https://stocktwits.com",
+        "id": 2269,
+        "title": "StockTwits Web"
+      },
+      "user": {
+        "username": "fullbull",
+        "plus_tier": "",
+        "name": "Full bull",
+        "classification": [],
+        "official": false,
+        "like_count": 466,
+        "ideas": 1143,
+        "premium_room": "",
+        "following": 59,
+        "join_date": "2016-11-02",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "followers": 16,
+        "watchlist_stocks_count": 16,
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "trade_app": false,
+        "id": 871400,
+        "identity": "User"
+      },
+      "reshared_by_self": false,
+      "liked_by_self": false,
+      "id": 200125651,
+      "likes": {
+        "user_ids": [
+          1097735,
+          453171
+        ],
+        "total": 2
+      }
+    },
+    {
+      "body": "Record-Breaking Bitcoin Volume On Binance Points to Possible ...\nhttps://faws.com/news/26297335\n$XRP.X $BTC.X $BNB.X",
+      "links": [
+        {
+          "description": "Bitcoin did the unthinkable early this morning and lost support at $7,500, causing the cryptocurrency to plunge to $5,800 in a 30-minute long hell candle. The sell0ff driven by growing coronavirus and recession fears, has led to the highest level of Bitcoin trading volume on Binance ever recorded.",
+          "video_url": null,
+          "title": "Record-Breaking Bitcoin Volume On Binance Points to Possible Capitulation and Bottom",
+          "url": "https://faws.com/news/26297335",
+          "image": "https://asset.faws.com/media/entries/26297335.jpg",
+          "shortened_expanded_url": "faws.com/news/26297335",
+          "source": {
+            "website": "https://faws.com",
+            "name": "NewsBTC"
+          },
+          "shortened_url": "https://faws.com/news/26297335",
+          "created_at": "2020-03-12T19:47:26Z"
+        }
+      ],
+      "entities": {
+        "chart": {
+          "large": "https://charts.stocktwits.com/production/large_199986042.jpg",
+          "url": "https://charts.stocktwits.com/production/original_199986042.jpg",
+          "thumb": "https://charts.stocktwits.com/production/small_199986042.jpg",
+          "original": "https://charts.stocktwits.com/production/original_199986042.jpg"
+        },
+        "sentiment": null
+      },
+      "created_at": "2020-03-12T19:47:22Z",
+      "mentioned_users": [],
+      "symbols": [
+        {
+          "watchlist_count": 157148,
+          "title": "Bitcoin BTC/USD",
+          "symbol": "BTC.X",
+          "is_following": false,
+          "id": 11418,
+          "aliases": [
+            "BTCUSD"
+          ]
+        },
+        {
+          "watchlist_count": 61749,
+          "title": "Ripple",
+          "symbol": "XRP.X",
+          "is_following": false,
+          "id": 13528,
+          "aliases": [
+            "XRPUSD"
+          ]
+        },
+        {
+          "watchlist_count": 5150,
+          "title": "Binance",
+          "symbol": "BNB.X",
+          "is_following": false,
+          "id": 13873,
+          "aliases": []
+        }
+      ],
+      "source": {
+        "url": "https://faws.com",
+        "id": 3541,
+        "title": "Faws"
+      },
+      "user": {
+        "username": "Faws",
+        "plus_tier": "",
+        "name": "Faws.com",
+        "classification": [],
+        "official": false,
+        "like_count": 0,
+        "ideas": 52115,
+        "premium_room": "",
+        "following": 0,
+        "join_date": "2017-08-29",
+        "avatar_url": "https://avatars.stocktwits.com/production/1171931/thumb-1504728208.png",
+        "followers": 690,
+        "watchlist_stocks_count": 18,
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1171931/thumb-1504728208.png",
+        "trade_app": false,
+        "id": 1171931,
+        "identity": "User"
+      },
+      "reshared_by_self": false,
+      "liked_by_self": false,
+      "id": 199986042,
+      "likes": {
+        "user_ids": [
+          1436114
+        ],
+        "total": 1
+      }
+    },
+    {
+      "body": "$BNB.X LINK Briefly Traded for Almost $0 on Binance \n‚û°Ô∏è https://beincrypto.com/link-briefly-traded-for-almost-0-on-binance/",
+      "links": [
+        {
+          "description": "LINK flash crashed today on Binance's LINK/USDT pair. Remarkably, the red candle dropped as low as it could possibly go: $0.00001. After touching new all-time highs, LINK holders were hit especially hard today amid the collapse. Stunningly, LINK is down some -37% on the daily today and is leading the top cryptocurrencies in losses.",
+          "video_url": null,
+          "title": "LINK Briefly Traded for Almost $0 on Binance - BeInCrypto",
+          "url": "https://beincrypto.com/link-briefly-traded-for-almost-0-on-binance/",
+          "image": "https://s32659.pcdn.co/wp-content/uploads/2018/12/shutterstock_753144859.jpg",
+          "shortened_expanded_url": "beincrypto.com/link-briefly...",
+          "source": {
+            "website": "https://beincrypto.com",
+            "name": "BeInCrypto"
+          },
+          "shortened_url": "https://beincrypto.com/link-briefly-traded-for-almost-0-on-binance/",
+          "created_at": "2020-03-12T13:44:26Z"
+        }
+      ],
+      "entities": {
+        "sentiment": null
+      },
+      "created_at": "2020-03-12T13:44:25Z",
+      "mentioned_users": [],
+      "symbols": [
+        {
+          "watchlist_count": 5150,
+          "title": "Binance",
+          "symbol": "BNB.X",
+          "is_following": false,
+          "id": 13873,
+          "aliases": []
+        }
+      ],
+      "source": {
+        "url": "https://zapier.com/",
+        "id": 1022,
+        "title": "Zapier"
+      },
+      "user": {
+        "username": "BeInCrypto",
+        "plus_tier": "",
+        "name": "BeInCrypto",
+        "classification": [
+          "suggested"
+        ],
+        "official": false,
+        "like_count": 228,
+        "ideas": 4623,
+        "premium_room": "",
+        "following": 630,
+        "join_date": "2018-09-12",
+        "avatar_url": "https://avatars.stocktwits.com/production/1608144/thumb-1563191173.png",
+        "followers": 270,
+        "watchlist_stocks_count": 4,
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1608144/thumb-1563191173.png",
+        "trade_app": false,
+        "id": 1608144,
+        "identity": "User"
+      },
+      "reshared_by_self": false,
+      "liked_by_self": false,
+      "id": 199866636
+    },
+    {
+      "body": "Can blockchain and cryptocurrencies catalyze employment opportunities?\nhttps://faws.com/news/26294147\n$BNB.X",
+      "links": [
+        {
+          "description": "\"Today, what the world needs is a forum for both private and government interactions to come up with a good framework for digital assets.\" - Yi He, Co-founder and CMO, Binance The cryptocurrency space is highly volatile. The lack of regulatory clarity has added to the woes. Despite several hurdles,...",
+          "video_url": null,
+          "title": "Can blockchain and cryptocurrencies catalyze employment opportunities?",
+          "url": "https://faws.com/news/26294147",
+          "image": "https://asset.faws.com/media/entries/26294147.jpg",
+          "shortened_expanded_url": "faws.com/news/26294147",
+          "source": {
+            "website": "https://faws.com",
+            "name": "AMBCrypto"
+          },
+          "shortened_url": "https://faws.com/news/26294147",
+          "created_at": "2020-03-12T11:32:25Z"
+        }
+      ],
+      "entities": {
+        "chart": {
+          "large": "https://charts.stocktwits.com/production/large_199826782.jpg",
+          "url": "https://charts.stocktwits.com/production/original_199826782.jpg",
+          "thumb": "https://charts.stocktwits.com/production/small_199826782.jpg",
+          "original": "https://charts.stocktwits.com/production/original_199826782.jpg"
+        },
+        "sentiment": null
+      },
+      "created_at": "2020-03-12T11:32:21Z",
+      "mentioned_users": [],
+      "symbols": [
+        {
+          "watchlist_count": 5150,
+          "title": "Binance",
+          "symbol": "BNB.X",
+          "is_following": false,
+          "id": 13873,
+          "aliases": []
+        }
+      ],
+      "source": {
+        "url": "https://faws.com",
+        "id": 3541,
+        "title": "Faws"
+      },
+      "user": {
+        "username": "Faws",
+        "plus_tier": "",
+        "name": "Faws.com",
+        "classification": [],
+        "official": false,
+        "like_count": 0,
+        "ideas": 52112,
+        "premium_room": "",
+        "following": 0,
+        "join_date": "2017-08-29",
+        "avatar_url": "https://avatars.stocktwits.com/production/1171931/thumb-1504728208.png",
+        "followers": 690,
+        "watchlist_stocks_count": 18,
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1171931/thumb-1504728208.png",
+        "trade_app": false,
+        "id": 1171931,
+        "identity": "User"
+      },
+      "reshared_by_self": false,
+      "liked_by_self": false,
+      "id": 199826782
+    },
+    {
+      "body": "Binance Stablecoin BUSD Tops $100M but Lags Behind Rivals\nhttps://faws.com/news/26290397\n$STABL $BUSD $USDT.X $BNB.X",
+      "links": [
+        {
+          "description": "Binance USD, a U.S. dollar-backed stablecoin, has surpassed $100 million in market capitalization, chipping away at a market still dominated by Tether's TUSD. Also known as BUSD, the token is traded almost exclusively on the Binance exchange and its market cap - which roughly corresponds to the total value of dollars deposited with its issuer, Paxos - is currently at $115 million.",
+          "video_url": null,
+          "title": "Binance Stablecoin BUSD Tops $100M but Lags Behind Rivals",
+          "url": "https://faws.com/news/26290397",
+          "image": "https://asset.faws.com/media/entries/26290397.jpg",
+          "shortened_expanded_url": "faws.com/news/26290397",
+          "source": {
+            "website": "https://faws.com",
+            "name": "CoinDesk"
+          },
+          "shortened_url": "https://faws.com/news/26290397",
+          "created_at": "2020-03-11T21:08:29Z"
+        }
+      ],
+      "entities": {
+        "chart": {
+          "large": "https://charts.stocktwits.com/production/large_199712913.jpg",
+          "url": "https://charts.stocktwits.com/production/original_199712913.jpg",
+          "thumb": "https://charts.stocktwits.com/production/small_199712913.jpg",
+          "original": "https://charts.stocktwits.com/production/original_199712913.jpg"
+        },
+        "sentiment": null
+      },
+      "created_at": "2020-03-11T21:08:24Z",
+      "mentioned_users": [],
+      "symbols": [
+        {
+          "watchlist_count": 1205,
+          "title": "Tether",
+          "symbol": "USDT.X",
+          "is_following": false,
+          "id": 13680,
+          "aliases": []
+        },
+        {
+          "watchlist_count": 5150,
+          "title": "Binance",
+          "symbol": "BNB.X",
+          "is_following": false,
+          "id": 13873,
+          "aliases": []
+        }
+      ],
+      "source": {
+        "url": "https://faws.com",
+        "id": 3541,
+        "title": "Faws"
+      },
+      "user": {
+        "username": "Faws",
+        "plus_tier": "",
+        "name": "Faws.com",
+        "classification": [],
+        "official": false,
+        "like_count": 0,
+        "ideas": 52115,
+        "premium_room": "",
+        "following": 0,
+        "join_date": "2017-08-29",
+        "avatar_url": "https://avatars.stocktwits.com/production/1171931/thumb-1504728208.png",
+        "followers": 690,
+        "watchlist_stocks_count": 18,
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1171931/thumb-1504728208.png",
+        "trade_app": false,
+        "id": 1171931,
+        "identity": "User"
+      },
+      "reshared_by_self": false,
+      "liked_by_self": false,
+      "id": 199712913
+    }
+  ],
+  "response": {
+    "status": 200
+  }
+}

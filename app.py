@@ -1,6 +1,9 @@
 import logging as log
 from requestors import ST_BASE_PARAMS, ST_BASE_URL
 import json
+import os.path
+from datetime import datetime
+from flask import Flask, request
 
 # Select which library to use for handling HTTP request.  If running on Google App Engine, use `GAE`.
 # Otherwise, use `Requests` which is based on the `requests` module.
@@ -11,10 +14,28 @@ __author__ = 'Jason Haury'
 # Example list of exchanges to limit a watchlist to
 EXCHANGES = ['NYSE', 'NASDAQ', 'NYSEMkt', 'NYSEArca']
 SYMBOLS = ['BTC.X', 'BSV.X', 'BNB.X', 'BCH.X',
-           'DOGE.X', 'EOS/X', 'XMR.X', 'XRP.X',
+           'DOGE.X', 'EOS.X', 'XMR.X', 'XRP.X',
            'ETH.X', 'LTC.X']
+SYMBOLS_FINAL = ['EOS.X', 'DOGE.X', 'BTC.X',
+               'ETH.X', 'LTC.X']
 
+app = Flask(__name__)
 
+@app.route("/")
+def hello():
+  return "Hello World!"
+
+@app.route("/run")
+def generate_json():
+  return "test"
+
+#class Run(Resource):
+#  def get(self):
+#    for symbol in SYMBOLS:
+#      dt_string = datetime.now().strftime("%d-%m-%H:%M")
+#      res = without_token_get_stock_stream(symbol, "json/compiled_" + symbol + dt_string + ".json")
+#      print(res)
+#      return res
 
 # ---------------------------------------------------------------------
 # Basic StockTwits interface
@@ -26,22 +47,35 @@ def get_watched_stocks(wl_id):
     wl = wl['watchlist']['symbols']
     return [s['symbol'] for s in wl]
 
-def modified_get_stock_stream(symbol, params={}):
+def without_token_get_stock_stream(symbol, output_filename, params={}):
   """ gets stream of messages for given symbol"""
-  f = open("compiled_json.txt", "w+")
   result = R.get_json(ST_BASE_URL + 'streams/symbol/{}.json'.format(symbol))
+  
+  print(result)
   f.write(json.dumps(result))
+  f.write("/****End****/")
   f.close()
   return result
 
-def get_stock_stream(symbol, params={}):
+def get_stock_stream(symbol, output_filename, params={}):
     """ gets stream of messages for given symbol
     """
     print("printing stock stream")
     all_params = ST_BASE_PARAMS.copy()
     for k, v in params.iteritems():
         all_params[k] = v
-    return R.get_json(ST_BASE_URL + 'streams/symbol/{}.json'.format(symbol), params=all_params)
+    result = R.get_json(ST_BASE_URL + 'streams/symbol/{}.json'.format(symbol), params=all_params)
+
+
+    if os.path.isfile(output_filename):
+      f = open(output_filename, "a+")
+    else:
+      f = open(output_filename, "w")
+
+    #    result = R.get_json(ST_BASE_URL + 'streams/symbol/{}.json'.format(symbol))
+    f.write(json.dumps(result))
+
+    return result
 
 
 def get_message_stream(wl_id, params={}):
@@ -103,6 +137,10 @@ def clean_watchlist(wl_id):
                 log.error("Error deleting symbol from watchlist: {}".format(sym))
     return qty_deleted
 
-
 if __name__ == '__main__':
-  print(modified_get_stock_stream(SYMBOLS[0]))
+  app.run()
+#
+#if __name__ == '__main__':
+#  for symbol in SYMBOLS:
+#    dt_string = datetime.now().strftime("%d-%m-%H:%M")
+#    print(get_stock_stream(symbol, "json/compiled_" + symbol + dt_string + ".json"))

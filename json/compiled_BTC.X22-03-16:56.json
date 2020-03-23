@@ -1,0 +1,1691 @@
+{
+  "cursor": {
+    "max": 201981053,
+    "since": 201984133,
+    "more": true
+  },
+  "symbol": {
+    "watchlist_count": 157155,
+    "title": "Bitcoin BTC/USD",
+    "symbol": "BTC.X",
+    "is_following": false,
+    "id": 11418,
+    "aliases": [
+      "BTCUSD"
+    ]
+  },
+  "messages": [
+    {
+      "body": "$BTC.X if we can get to 2k let’s go!",
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      },
+      "created_at": "2020-03-22T20:56:36Z",
+      "mentioned_users": [],
+      "symbols": [
+        {
+          "watchlist_count": 157155,
+          "title": "Bitcoin BTC/USD",
+          "symbol": "BTC.X",
+          "is_following": false,
+          "id": 11418,
+          "aliases": [
+            "BTCUSD"
+          ]
+        }
+      ],
+      "source": {
+        "url": "http://www.stocktwits.com/mobile",
+        "id": 1149,
+        "title": "StockTwits for iOS"
+      },
+      "user": {
+        "username": "CreativeValue",
+        "plus_tier": "",
+        "name": "The Manager",
+        "classification": [],
+        "official": false,
+        "like_count": 62,
+        "ideas": 329,
+        "premium_room": "",
+        "following": 0,
+        "join_date": "2016-11-27",
+        "avatar_url": "https://avatars.stocktwits.com/production/888284/thumb-1565232357.png",
+        "followers": 2,
+        "watchlist_stocks_count": 21,
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/888284/thumb-1565232357.png",
+        "trade_app": false,
+        "id": 888284,
+        "identity": "User"
+      },
+      "reshared_by_self": false,
+      "liked_by_self": false,
+      "id": 201984133
+    },
+    {
+      "body": "$BTC.X you can tell who’s manipulating right now because the cost on Robinhood has been consistently higher than the average of large exchanges all morning",
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      },
+      "created_at": "2020-03-22T20:56:34Z",
+      "mentioned_users": [],
+      "symbols": [
+        {
+          "watchlist_count": 157155,
+          "title": "Bitcoin BTC/USD",
+          "symbol": "BTC.X",
+          "is_following": false,
+          "id": 11418,
+          "aliases": [
+            "BTCUSD"
+          ]
+        }
+      ],
+      "source": {
+        "url": "http://www.stocktwits.com/mobile",
+        "id": 1149,
+        "title": "StockTwits for iOS"
+      },
+      "user": {
+        "username": "solomonmichael",
+        "plus_tier": "",
+        "name": "solomon michael",
+        "classification": [],
+        "official": false,
+        "like_count": 2245,
+        "ideas": 3115,
+        "premium_room": "",
+        "following": 7,
+        "join_date": "2018-04-10",
+        "avatar_url": "https://avatars.stocktwits.com/production/1468237/thumb-1563599281.png",
+        "followers": 23,
+        "watchlist_stocks_count": 10,
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1468237/thumb-1563599281.png",
+        "trade_app": false,
+        "id": 1468237,
+        "identity": "User"
+      },
+      "reshared_by_self": false,
+      "liked_by_self": false,
+      "id": 201984129
+    },
+    {
+      "body": "$BTC.X Give me 4K",
+      "entities": {
+        "sentiment": null
+      },
+      "created_at": "2020-03-22T20:55:09Z",
+      "mentioned_users": [],
+      "symbols": [
+        {
+          "watchlist_count": 157155,
+          "title": "Bitcoin BTC/USD",
+          "symbol": "BTC.X",
+          "is_following": false,
+          "id": 11418,
+          "aliases": [
+            "BTCUSD"
+          ]
+        }
+      ],
+      "source": {
+        "url": "http://www.stocktwits.com/mobile",
+        "id": 1149,
+        "title": "StockTwits for iOS"
+      },
+      "user": {
+        "username": "Beatpili",
+        "plus_tier": "",
+        "name": "Jordan",
+        "classification": [],
+        "official": false,
+        "like_count": 19,
+        "ideas": 56,
+        "premium_room": "",
+        "following": 4,
+        "join_date": "2019-09-26",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "followers": 0,
+        "watchlist_stocks_count": 41,
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "trade_app": false,
+        "id": 2829857,
+        "identity": "User"
+      },
+      "reshared_by_self": false,
+      "liked_by_self": false,
+      "id": 201983990
+    },
+    {
+      "body": "$BTC.X she&#39;s at 6k no worries",
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      },
+      "created_at": "2020-03-22T20:54:49Z",
+      "mentioned_users": [],
+      "symbols": [
+        {
+          "watchlist_count": 157155,
+          "title": "Bitcoin BTC/USD",
+          "symbol": "BTC.X",
+          "is_following": false,
+          "id": 11418,
+          "aliases": [
+            "BTCUSD"
+          ]
+        }
+      ],
+      "source": {
+        "url": "http://www.stocktwits.com/mobile",
+        "id": 2095,
+        "title": "StockTwits For Android "
+      },
+      "user": {
+        "username": "wind2u",
+        "plus_tier": "",
+        "name": "Redemption Nasdaq",
+        "classification": [],
+        "official": false,
+        "like_count": 536,
+        "ideas": 3343,
+        "premium_room": "",
+        "following": 8,
+        "join_date": "2018-04-11",
+        "avatar_url": "https://avatars.stocktwits.com/production/1469547/thumb-1527959110.png",
+        "followers": 33,
+        "watchlist_stocks_count": 30,
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1469547/thumb-1527959110.png",
+        "trade_app": false,
+        "id": 1469547,
+        "identity": "User"
+      },
+      "reshared_by_self": false,
+      "liked_by_self": false,
+      "id": 201983951
+    },
+    {
+      "body": "$BTC.X wait for it under 3K. Maybe even lower with the current situation.",
+      "entities": {
+        "sentiment": {
+          "basic": "Bearish"
+        }
+      },
+      "conversation": {
+        "in_reply_to_message_id": null,
+        "parent_message_id": 201983862,
+        "parent": true,
+        "replies": 1
+      },
+      "created_at": "2020-03-22T20:53:54Z",
+      "mentioned_users": [],
+      "symbols": [
+        {
+          "watchlist_count": 157155,
+          "title": "Bitcoin BTC/USD",
+          "symbol": "BTC.X",
+          "is_following": false,
+          "id": 11418,
+          "aliases": [
+            "BTCUSD"
+          ]
+        }
+      ],
+      "source": {
+        "url": "http://www.stocktwits.com/mobile",
+        "id": 1149,
+        "title": "StockTwits for iOS"
+      },
+      "user": {
+        "username": "fredregal",
+        "plus_tier": "",
+        "name": "Fred Regal",
+        "classification": [],
+        "official": false,
+        "like_count": 16039,
+        "ideas": 11982,
+        "premium_room": "",
+        "following": 663,
+        "join_date": "2017-11-27",
+        "avatar_url": "https://avatars.stocktwits.com/production/1285359/thumb-1569793507.png",
+        "followers": 386,
+        "watchlist_stocks_count": 59,
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1285359/thumb-1569793507.png",
+        "trade_app": false,
+        "id": 1285359,
+        "identity": "User"
+      },
+      "reshared_by_self": false,
+      "liked_by_self": false,
+      "id": 201983862,
+      "likes": {
+        "user_ids": [
+          2243362
+        ],
+        "total": 1
+      }
+    },
+    {
+      "body": "$BTC.X Sub 1k",
+      "entities": {
+        "chart": {
+          "large": "https://charts.stocktwits.com/production/large_201983721.png",
+          "url": "https://charts.stocktwits.com/production/original_201983721.png",
+          "thumb": "https://charts.stocktwits.com/production/small_201983721.png",
+          "original": "https://charts.stocktwits.com/production/original_201983721.png"
+        },
+        "sentiment": {
+          "basic": "Bearish"
+        }
+      },
+      "created_at": "2020-03-22T20:52:16Z",
+      "mentioned_users": [],
+      "symbols": [
+        {
+          "watchlist_count": 157155,
+          "title": "Bitcoin BTC/USD",
+          "symbol": "BTC.X",
+          "is_following": false,
+          "id": 11418,
+          "aliases": [
+            "BTCUSD"
+          ]
+        }
+      ],
+      "source": {
+        "url": "http://www.stocktwits.com/mobile",
+        "id": 2095,
+        "title": "StockTwits For Android "
+      },
+      "user": {
+        "username": "Rcx2017",
+        "plus_tier": "",
+        "name": "Thats the way she goes",
+        "classification": [],
+        "official": false,
+        "like_count": 15243,
+        "ideas": 15664,
+        "premium_room": "",
+        "following": 32,
+        "join_date": "2018-01-07",
+        "avatar_url": "https://avatars.stocktwits.com/production/1355858/thumb-1581365416.png",
+        "followers": 164,
+        "watchlist_stocks_count": 55,
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1355858/thumb-1581365416.png",
+        "trade_app": false,
+        "id": 1355858,
+        "identity": "User"
+      },
+      "reshared_by_self": false,
+      "liked_by_self": false,
+      "id": 201983721,
+      "likes": {
+        "user_ids": [
+          2243362,
+          2871827
+        ],
+        "total": 2
+      }
+    },
+    {
+      "body": "$BTC.X  every one that thinks that the halving  will make the price skyrocket is already inn. so there will mostly be sellers when 5e halving hits",
+      "entities": {
+        "sentiment": null
+      },
+      "created_at": "2020-03-22T20:51:32Z",
+      "mentioned_users": [],
+      "symbols": [
+        {
+          "watchlist_count": 157155,
+          "title": "Bitcoin BTC/USD",
+          "symbol": "BTC.X",
+          "is_following": false,
+          "id": 11418,
+          "aliases": [
+            "BTCUSD"
+          ]
+        }
+      ],
+      "source": {
+        "url": "https://stocktwits.com",
+        "id": 2269,
+        "title": "StockTwits Web"
+      },
+      "user": {
+        "username": "GrimInvestor",
+        "plus_tier": "",
+        "name": "Grim Investor",
+        "classification": [],
+        "official": false,
+        "like_count": 214,
+        "ideas": 1061,
+        "premium_room": "",
+        "following": 6,
+        "join_date": "2017-07-16",
+        "avatar_url": "https://avatars.stocktwits.com/production/1126244/thumb-1500214394.png",
+        "followers": 13,
+        "watchlist_stocks_count": 21,
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1126244/thumb-1500214394.png",
+        "trade_app": false,
+        "id": 1126244,
+        "identity": "User"
+      },
+      "reshared_by_self": false,
+      "liked_by_self": false,
+      "id": 201983647
+    },
+    {
+      "body": "$BTC.X drip drip...",
+      "entities": {
+        "chart": {
+          "large": "https://charts.stocktwits.com/production/large_201983542.gif",
+          "url": "https://charts.stocktwits.com/production/original_201983542.gif",
+          "thumb": "https://charts.stocktwits.com/production/small_201983542.gif",
+          "original": "https://charts.stocktwits.com/production/original_201983542.gif"
+        },
+        "sentiment": {
+          "basic": "Bearish"
+        }
+      },
+      "created_at": "2020-03-22T20:50:21Z",
+      "mentioned_users": [],
+      "symbols": [
+        {
+          "watchlist_count": 157155,
+          "title": "Bitcoin BTC/USD",
+          "symbol": "BTC.X",
+          "is_following": false,
+          "id": 11418,
+          "aliases": [
+            "BTCUSD"
+          ]
+        }
+      ],
+      "source": {
+        "url": "http://www.stocktwits.com/mobile",
+        "id": 2095,
+        "title": "StockTwits For Android "
+      },
+      "user": {
+        "username": "cactus_",
+        "plus_tier": "month",
+        "name": "Fibodamus_Waves",
+        "classification": [],
+        "official": false,
+        "like_count": 9289,
+        "ideas": 4064,
+        "premium_room": "",
+        "following": 91,
+        "join_date": "2019-07-09",
+        "avatar_url": "https://avatars.stocktwits.com/production/2184444/thumb-1584821774.png",
+        "followers": 103,
+        "watchlist_stocks_count": 75,
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2184444/thumb-1584821774.png",
+        "trade_app": false,
+        "id": 2184444,
+        "identity": "User"
+      },
+      "reshared_by_self": false,
+      "liked_by_self": false,
+      "id": 201983542,
+      "likes": {
+        "user_ids": [
+          3144080
+        ],
+        "total": 1
+      }
+    },
+    {
+      "body": "$BTC.X Keep an eye on the $ES_F and $DJ_F Futures. I’m thinking that will decide which way $BTC.X moves. \n\nGuessing it will open with a decline.",
+      "entities": {
+        "sentiment": {
+          "basic": "Bearish"
+        }
+      },
+      "created_at": "2020-03-22T20:50:20Z",
+      "mentioned_users": [],
+      "symbols": [
+        {
+          "watchlist_count": 305,
+          "title": "DJIA Futures",
+          "symbol": "DJ_F",
+          "is_following": false,
+          "id": 644,
+          "aliases": []
+        },
+        {
+          "watchlist_count": 10978,
+          "title": "E-Mini S&P 500 Futures",
+          "symbol": "ES_F",
+          "is_following": false,
+          "id": 647,
+          "aliases": []
+        },
+        {
+          "watchlist_count": 157155,
+          "title": "Bitcoin BTC/USD",
+          "symbol": "BTC.X",
+          "is_following": false,
+          "id": 11418,
+          "aliases": [
+            "BTCUSD"
+          ]
+        }
+      ],
+      "source": {
+        "url": "http://www.stocktwits.com/mobile",
+        "id": 1149,
+        "title": "StockTwits for iOS"
+      },
+      "user": {
+        "username": "JMA_Trades",
+        "plus_tier": "",
+        "name": "JMA_Trades",
+        "classification": [],
+        "official": false,
+        "like_count": 434,
+        "ideas": 964,
+        "premium_room": "",
+        "following": 10,
+        "join_date": "2018-05-21",
+        "avatar_url": "https://avatars.stocktwits.com/production/1500932/thumb-1526912074.png",
+        "followers": 124,
+        "watchlist_stocks_count": 3,
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1500932/thumb-1526912074.png",
+        "trade_app": false,
+        "id": 1500932,
+        "identity": "User"
+      },
+      "reshared_by_self": false,
+      "liked_by_self": false,
+      "id": 201983541
+    },
+    {
+      "body": "$BTC.X Did you guys hear that bitcoins halving was just halted?",
+      "entities": {
+        "sentiment": null
+      },
+      "created_at": "2020-03-22T20:47:19Z",
+      "mentioned_users": [],
+      "symbols": [
+        {
+          "watchlist_count": 157155,
+          "title": "Bitcoin BTC/USD",
+          "symbol": "BTC.X",
+          "is_following": false,
+          "id": 11418,
+          "aliases": [
+            "BTCUSD"
+          ]
+        }
+      ],
+      "source": {
+        "url": "http://www.stocktwits.com/mobile",
+        "id": 2095,
+        "title": "StockTwits For Android "
+      },
+      "user": {
+        "username": "MrUeck",
+        "plus_tier": "year",
+        "name": "William Uecker",
+        "classification": [],
+        "official": false,
+        "like_count": 55,
+        "ideas": 1100,
+        "premium_room": "",
+        "following": 29,
+        "join_date": "2017-05-15",
+        "avatar_url": "https://avatars.stocktwits.com/production/1062582/thumb-1533179253.png",
+        "followers": 69,
+        "watchlist_stocks_count": 30,
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1062582/thumb-1533179253.png",
+        "trade_app": false,
+        "id": 1062582,
+        "identity": "User"
+      },
+      "reshared_by_self": false,
+      "liked_by_self": false,
+      "id": 201983261
+    },
+    {
+      "body": "$BTC.X buy up buttercup may never see below 6 for awile",
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      },
+      "conversation": {
+        "in_reply_to_message_id": null,
+        "parent_message_id": 201983253,
+        "parent": true,
+        "replies": 1
+      },
+      "created_at": "2020-03-22T20:47:14Z",
+      "mentioned_users": [],
+      "symbols": [
+        {
+          "watchlist_count": 157155,
+          "title": "Bitcoin BTC/USD",
+          "symbol": "BTC.X",
+          "is_following": false,
+          "id": 11418,
+          "aliases": [
+            "BTCUSD"
+          ]
+        }
+      ],
+      "source": {
+        "url": "http://www.stocktwits.com/mobile",
+        "id": 2095,
+        "title": "StockTwits For Android "
+      },
+      "user": {
+        "username": "wind2u",
+        "plus_tier": "",
+        "name": "Redemption Nasdaq",
+        "classification": [],
+        "official": false,
+        "like_count": 536,
+        "ideas": 3343,
+        "premium_room": "",
+        "following": 8,
+        "join_date": "2018-04-11",
+        "avatar_url": "https://avatars.stocktwits.com/production/1469547/thumb-1527959110.png",
+        "followers": 33,
+        "watchlist_stocks_count": 30,
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1469547/thumb-1527959110.png",
+        "trade_app": false,
+        "id": 1469547,
+        "identity": "User"
+      },
+      "reshared_by_self": false,
+      "liked_by_self": false,
+      "id": 201983253
+    },
+    {
+      "body": "$BTC.X could be headed down to 5500 and test the breakout on 3/19.",
+      "entities": {
+        "sentiment": null
+      },
+      "created_at": "2020-03-22T20:43:49Z",
+      "mentioned_users": [],
+      "symbols": [
+        {
+          "watchlist_count": 157155,
+          "title": "Bitcoin BTC/USD",
+          "symbol": "BTC.X",
+          "is_following": false,
+          "id": 11418,
+          "aliases": [
+            "BTCUSD"
+          ]
+        }
+      ],
+      "source": {
+        "url": "https://stocktwits.com",
+        "id": 2269,
+        "title": "StockTwits Web"
+      },
+      "user": {
+        "username": "stubbybrown",
+        "plus_tier": "",
+        "name": "Miguel",
+        "classification": [],
+        "official": false,
+        "like_count": 1599,
+        "ideas": 4346,
+        "premium_room": "",
+        "following": 27,
+        "join_date": "2011-11-17",
+        "avatar_url": "https://avatars.stocktwits.com/production/119179/thumb-1517417972.png",
+        "followers": 277,
+        "watchlist_stocks_count": 16,
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/119179/thumb-1517417972.png",
+        "trade_app": false,
+        "id": 119179,
+        "identity": "User"
+      },
+      "reshared_by_self": false,
+      "liked_by_self": false,
+      "id": 201982934,
+      "likes": {
+        "user_ids": [
+          1500932,
+          1133988
+        ],
+        "total": 2
+      }
+    },
+    {
+      "body": "$BTC.X likelihood for lower lows is present, initial supports 5550, 5150.\n\nDouble bottom with slightly lower low 3-3800 would set up some daily bullish divergence",
+      "entities": {
+        "sentiment": null
+      },
+      "created_at": "2020-03-22T20:41:38Z",
+      "mentioned_users": [],
+      "symbols": [
+        {
+          "watchlist_count": 157155,
+          "title": "Bitcoin BTC/USD",
+          "symbol": "BTC.X",
+          "is_following": false,
+          "id": 11418,
+          "aliases": [
+            "BTCUSD"
+          ]
+        }
+      ],
+      "source": {
+        "url": "http://www.stocktwits.com/mobile",
+        "id": 1149,
+        "title": "StockTwits for iOS"
+      },
+      "user": {
+        "username": "jester618",
+        "plus_tier": "",
+        "name": "Justin Esterberg",
+        "classification": [],
+        "official": false,
+        "like_count": 0,
+        "ideas": 0,
+        "premium_room": "",
+        "following": 0,
+        "join_date": "2020-03-14",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "followers": 0,
+        "watchlist_stocks_count": 4,
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "trade_app": false,
+        "id": 3184166,
+        "identity": "User"
+      },
+      "reshared_by_self": false,
+      "liked_by_self": false,
+      "id": 201982764,
+      "likes": {
+        "user_ids": [
+          3006574
+        ],
+        "total": 1
+      }
+    },
+    {
+      "body": "$BTC.X",
+      "entities": {
+        "chart": {
+          "large": "https://charts.stocktwits.com/production/large_201982661.png",
+          "url": "https://charts.stocktwits.com/production/original_201982661.png",
+          "thumb": "https://charts.stocktwits.com/production/small_201982661.png",
+          "original": "https://charts.stocktwits.com/production/original_201982661.png"
+        },
+        "sentiment": null
+      },
+      "conversation": {
+        "in_reply_to_message_id": null,
+        "parent_message_id": 201982661,
+        "parent": true,
+        "replies": 1
+      },
+      "created_at": "2020-03-22T20:40:34Z",
+      "mentioned_users": [],
+      "symbols": [
+        {
+          "watchlist_count": 157155,
+          "title": "Bitcoin BTC/USD",
+          "symbol": "BTC.X",
+          "is_following": false,
+          "id": 11418,
+          "aliases": [
+            "BTCUSD"
+          ]
+        }
+      ],
+      "source": {
+        "url": "http://www.stocktwits.com/mobile",
+        "id": 1149,
+        "title": "StockTwits for iOS"
+      },
+      "user": {
+        "username": "GetYeeted",
+        "plus_tier": "",
+        "name": "Yeet",
+        "classification": [],
+        "official": false,
+        "like_count": 49,
+        "ideas": 43,
+        "premium_room": "",
+        "following": 1,
+        "join_date": "2020-01-29",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "followers": 0,
+        "watchlist_stocks_count": 19,
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "trade_app": false,
+        "id": 3062275,
+        "identity": "User"
+      },
+      "reshared_by_self": false,
+      "liked_by_self": false,
+      "id": 201982661
+    },
+    {
+      "body": "$BTC.X literally any second this thing can dump 50 percent RAPIDLY",
+      "entities": {
+        "sentiment": {
+          "basic": "Bearish"
+        }
+      },
+      "conversation": {
+        "in_reply_to_message_id": null,
+        "parent_message_id": 201982435,
+        "parent": true,
+        "replies": 1
+      },
+      "created_at": "2020-03-22T20:37:47Z",
+      "mentioned_users": [],
+      "symbols": [
+        {
+          "watchlist_count": 157155,
+          "title": "Bitcoin BTC/USD",
+          "symbol": "BTC.X",
+          "is_following": false,
+          "id": 11418,
+          "aliases": [
+            "BTCUSD"
+          ]
+        }
+      ],
+      "source": {
+        "url": "https://stocktwits.com",
+        "id": 2269,
+        "title": "StockTwits Web"
+      },
+      "user": {
+        "username": "Driggillo7",
+        "plus_tier": "",
+        "name": "Driggillo7",
+        "classification": [],
+        "official": false,
+        "like_count": 65,
+        "ideas": 1192,
+        "premium_room": "",
+        "following": 74,
+        "join_date": "2017-06-23",
+        "avatar_url": "https://avatars.stocktwits.com/production/1102750/thumb-1507314295.png",
+        "followers": 46,
+        "watchlist_stocks_count": 23,
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1102750/thumb-1507314295.png",
+        "trade_app": false,
+        "id": 1102750,
+        "identity": "User"
+      },
+      "reshared_by_self": false,
+      "liked_by_self": false,
+      "id": 201982435,
+      "likes": {
+        "user_ids": [
+          3204320
+        ],
+        "total": 1
+      }
+    },
+    {
+      "body": "$BTC.X Bitcoin is lucky to be one of a few exit node crypto&#39;s to real USD (not tether tied) at crypto exchanges.  At some point the alt coins will get a markdown and Bitcoin will follow the market cap.",
+      "entities": {
+        "sentiment": {
+          "basic": "Bearish"
+        }
+      },
+      "created_at": "2020-03-22T20:36:53Z",
+      "mentioned_users": [],
+      "symbols": [
+        {
+          "watchlist_count": 157155,
+          "title": "Bitcoin BTC/USD",
+          "symbol": "BTC.X",
+          "is_following": false,
+          "id": 11418,
+          "aliases": [
+            "BTCUSD"
+          ]
+        }
+      ],
+      "source": {
+        "url": "https://stocktwits.com",
+        "id": 2269,
+        "title": "StockTwits Web"
+      },
+      "user": {
+        "username": "KraxKill",
+        "plus_tier": "",
+        "name": "KraxKill",
+        "classification": [],
+        "official": false,
+        "like_count": 483,
+        "ideas": 2418,
+        "premium_room": "",
+        "following": 3,
+        "join_date": "2017-11-29",
+        "avatar_url": "https://avatars.stocktwits.com/production/1289332/thumb-1512680608.png",
+        "followers": 25,
+        "watchlist_stocks_count": 19,
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1289332/thumb-1512680608.png",
+        "trade_app": false,
+        "id": 1289332,
+        "identity": "User"
+      },
+      "reshared_by_self": false,
+      "liked_by_self": false,
+      "id": 201982338
+    },
+    {
+      "body": "$BTC.X CRYPTO friends during these bearish moves, we should all move to IBIO and get crazy rich. During Ebola it jumped 20-30x lol",
+      "entities": {
+        "chart": {
+          "large": "https://charts.stocktwits.com/production/large_201982197.png",
+          "url": "https://charts.stocktwits.com/production/original_201982197.png",
+          "thumb": "https://charts.stocktwits.com/production/small_201982197.png",
+          "original": "https://charts.stocktwits.com/production/original_201982197.png"
+        },
+        "sentiment": null
+      },
+      "created_at": "2020-03-22T20:35:09Z",
+      "mentioned_users": [],
+      "symbols": [
+        {
+          "watchlist_count": 157155,
+          "title": "Bitcoin BTC/USD",
+          "symbol": "BTC.X",
+          "is_following": false,
+          "id": 11418,
+          "aliases": [
+            "BTCUSD"
+          ]
+        }
+      ],
+      "source": {
+        "url": "http://www.stocktwits.com/mobile",
+        "id": 1149,
+        "title": "StockTwits for iOS"
+      },
+      "user": {
+        "username": "TraderMD20",
+        "plus_tier": "",
+        "name": "TraderMD20",
+        "classification": [],
+        "official": false,
+        "like_count": 14,
+        "ideas": 29,
+        "premium_room": "",
+        "following": 0,
+        "join_date": "2020-03-22",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "followers": 0,
+        "watchlist_stocks_count": 3,
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "trade_app": false,
+        "id": 3214416,
+        "identity": "User"
+      },
+      "reshared_by_self": false,
+      "liked_by_self": false,
+      "id": 201982197
+    },
+    {
+      "body": "$BTC.X what do you think about buying Btc on Robinhood? I am not going to daytrade it. i will hold for 6+ months. \nI can’t buy on Binance because I live in NY",
+      "entities": {
+        "sentiment": null
+      },
+      "conversation": {
+        "in_reply_to_message_id": null,
+        "parent_message_id": 201982036,
+        "parent": true,
+        "replies": 4
+      },
+      "created_at": "2020-03-22T20:33:30Z",
+      "mentioned_users": [],
+      "symbols": [
+        {
+          "watchlist_count": 157155,
+          "title": "Bitcoin BTC/USD",
+          "symbol": "BTC.X",
+          "is_following": false,
+          "id": 11418,
+          "aliases": [
+            "BTCUSD"
+          ]
+        }
+      ],
+      "source": {
+        "url": "http://www.stocktwits.com/mobile",
+        "id": 1149,
+        "title": "StockTwits for iOS"
+      },
+      "user": {
+        "username": "Gleb4ti",
+        "plus_tier": "",
+        "name": "Ig: Gleb.tolstsik",
+        "classification": [],
+        "official": false,
+        "like_count": 125,
+        "ideas": 230,
+        "premium_room": "",
+        "following": 37,
+        "join_date": "2020-01-22",
+        "avatar_url": "https://avatars.stocktwits.com/production/3047516/thumb-1581356023.png",
+        "followers": 2,
+        "watchlist_stocks_count": 23,
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/3047516/thumb-1581356023.png",
+        "trade_app": false,
+        "id": 3047516,
+        "identity": "User"
+      },
+      "reshared_by_self": false,
+      "liked_by_self": false,
+      "id": 201982036,
+      "likes": {
+        "user_ids": [
+          1468237
+        ],
+        "total": 1
+      }
+    },
+    {
+      "body": "$BTC.X Sorry for the long break. It was well needed and felt great to step away. \nCurrently flat on all equities until the current situation cools down.\nHave a $BTC short open. Thinking once futures open in about 2hrs we may see a drop on both equities and crypto.",
+      "entities": {
+        "chart": {
+          "large": "https://charts.stocktwits.com/production/large_201981918.png",
+          "url": "https://charts.stocktwits.com/production/original_201981918.png",
+          "thumb": "https://charts.stocktwits.com/production/small_201981918.png",
+          "original": "https://charts.stocktwits.com/production/original_201981918.png"
+        },
+        "sentiment": null
+      },
+      "conversation": {
+        "in_reply_to_message_id": null,
+        "parent_message_id": 201981918,
+        "parent": true,
+        "replies": 1
+      },
+      "created_at": "2020-03-22T20:32:18Z",
+      "mentioned_users": [],
+      "symbols": [
+        {
+          "watchlist_count": 380,
+          "title": "Community Bankers Trust Corporation",
+          "symbol": "BTC",
+          "is_following": false,
+          "id": 70,
+          "aliases": []
+        },
+        {
+          "watchlist_count": 157155,
+          "title": "Bitcoin BTC/USD",
+          "symbol": "BTC.X",
+          "is_following": false,
+          "id": 11418,
+          "aliases": [
+            "BTCUSD"
+          ]
+        }
+      ],
+      "source": {
+        "url": "https://stocktwits.com",
+        "id": 2269,
+        "title": "StockTwits Web"
+      },
+      "user": {
+        "username": "JMA_Trades",
+        "plus_tier": "",
+        "name": "JMA_Trades",
+        "classification": [],
+        "official": false,
+        "like_count": 433,
+        "ideas": 964,
+        "premium_room": "",
+        "following": 10,
+        "join_date": "2018-05-21",
+        "avatar_url": "https://avatars.stocktwits.com/production/1500932/thumb-1526912074.png",
+        "followers": 124,
+        "watchlist_stocks_count": 3,
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1500932/thumb-1526912074.png",
+        "trade_app": false,
+        "id": 1500932,
+        "identity": "User"
+      },
+      "reshared_by_self": false,
+      "liked_by_self": false,
+      "id": 201981918,
+      "likes": {
+        "user_ids": [
+          3058123
+        ],
+        "total": 1
+      }
+    },
+    {
+      "body": "$BTC.X \n\nGood Lord, if I see this shit 1 more time I’m gonna lose it.",
+      "entities": {
+        "chart": {
+          "large": "https://charts.stocktwits.com/production/large_201981867.png",
+          "url": "https://charts.stocktwits.com/production/original_201981867.png",
+          "thumb": "https://charts.stocktwits.com/production/small_201981867.png",
+          "original": "https://charts.stocktwits.com/production/original_201981867.png"
+        },
+        "sentiment": null
+      },
+      "conversation": {
+        "in_reply_to_message_id": null,
+        "parent_message_id": 201981867,
+        "parent": true,
+        "replies": 1
+      },
+      "created_at": "2020-03-22T20:31:47Z",
+      "mentioned_users": [],
+      "symbols": [
+        {
+          "watchlist_count": 157155,
+          "title": "Bitcoin BTC/USD",
+          "symbol": "BTC.X",
+          "is_following": false,
+          "id": 11418,
+          "aliases": [
+            "BTCUSD"
+          ]
+        }
+      ],
+      "source": {
+        "url": "http://www.stocktwits.com/mobile",
+        "id": 1149,
+        "title": "StockTwits for iOS"
+      },
+      "user": {
+        "username": "CasperG",
+        "plus_tier": "",
+        "name": "Casper Gutierrez",
+        "classification": [
+          "suggested"
+        ],
+        "official": false,
+        "like_count": 3905,
+        "ideas": 12550,
+        "premium_room": "",
+        "following": 54,
+        "join_date": "2017-08-23",
+        "avatar_url": "https://avatars.stocktwits.com/production/1165570/thumb-1560451724.png",
+        "followers": 319,
+        "watchlist_stocks_count": 233,
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1165570/thumb-1560451724.png",
+        "trade_app": false,
+        "id": 1165570,
+        "identity": "User"
+      },
+      "reshared_by_self": false,
+      "liked_by_self": false,
+      "id": 201981867,
+      "likes": {
+        "user_ids": [
+          1430450
+        ],
+        "total": 1
+      }
+    },
+    {
+      "body": "Crypto and Wall Street &#39;will work alongside&#39; as institutional participation...\nhttps://faws.com/news/26373429\n$BTC.X",
+      "links": [
+        {
+          "description": "Cryptocurrencies and blockchain have entered the mainstream and this is no more a secret. Bitcoin has become a subject of fervent discussion among financial practitioners and the space has also seen the entry of a lot of institutional investors in recent times. In fact, many major financial institutions like JP...",
+          "video_url": null,
+          "title": "Crypto and Wall Street 'will work alongside' as institutional participation grows",
+          "url": "https://faws.com/news/26373429",
+          "image": "https://asset.faws.com/media/entries/26373429.jpg",
+          "shortened_expanded_url": "faws.com/news/26373429",
+          "source": {
+            "website": "https://faws.com",
+            "name": "AMBCrypto"
+          },
+          "shortened_url": "https://faws.com/news/26373429",
+          "created_at": "2020-03-22T20:31:18Z"
+        }
+      ],
+      "entities": {
+        "chart": {
+          "large": "https://charts.stocktwits.com/production/large_201981821.jpg",
+          "url": "https://charts.stocktwits.com/production/original_201981821.jpg",
+          "thumb": "https://charts.stocktwits.com/production/small_201981821.jpg",
+          "original": "https://charts.stocktwits.com/production/original_201981821.jpg"
+        },
+        "sentiment": null
+      },
+      "created_at": "2020-03-22T20:31:16Z",
+      "mentioned_users": [],
+      "symbols": [
+        {
+          "watchlist_count": 157155,
+          "title": "Bitcoin BTC/USD",
+          "symbol": "BTC.X",
+          "is_following": false,
+          "id": 11418,
+          "aliases": [
+            "BTCUSD"
+          ]
+        }
+      ],
+      "source": {
+        "url": "https://faws.com",
+        "id": 3541,
+        "title": "Faws"
+      },
+      "user": {
+        "username": "Faws",
+        "plus_tier": "",
+        "name": "Faws.com",
+        "classification": [],
+        "official": false,
+        "like_count": 0,
+        "ideas": 52115,
+        "premium_room": "",
+        "following": 0,
+        "join_date": "2017-08-29",
+        "avatar_url": "https://avatars.stocktwits.com/production/1171931/thumb-1504728208.png",
+        "followers": 690,
+        "watchlist_stocks_count": 18,
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1171931/thumb-1504728208.png",
+        "trade_app": false,
+        "id": 1171931,
+        "identity": "User"
+      },
+      "reshared_by_self": false,
+      "liked_by_self": false,
+      "id": 201981821
+    },
+    {
+      "body": "$BTC.X IBIO THE BEST STOCK CRYPTO BROTHERS",
+      "entities": {
+        "chart": {
+          "large": "https://charts.stocktwits.com/production/large_201981648.png",
+          "url": "https://charts.stocktwits.com/production/original_201981648.png",
+          "thumb": "https://charts.stocktwits.com/production/small_201981648.png",
+          "original": "https://charts.stocktwits.com/production/original_201981648.png"
+        },
+        "sentiment": null
+      },
+      "created_at": "2020-03-22T20:29:27Z",
+      "mentioned_users": [],
+      "symbols": [
+        {
+          "watchlist_count": 157155,
+          "title": "Bitcoin BTC/USD",
+          "symbol": "BTC.X",
+          "is_following": false,
+          "id": 11418,
+          "aliases": [
+            "BTCUSD"
+          ]
+        }
+      ],
+      "source": {
+        "url": "http://www.stocktwits.com/mobile",
+        "id": 1149,
+        "title": "StockTwits for iOS"
+      },
+      "user": {
+        "username": "TraderMD20",
+        "plus_tier": "",
+        "name": "TraderMD20",
+        "classification": [],
+        "official": false,
+        "like_count": 13,
+        "ideas": 29,
+        "premium_room": "",
+        "following": 0,
+        "join_date": "2020-03-22",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "followers": 0,
+        "watchlist_stocks_count": 2,
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "trade_app": false,
+        "id": 3214416,
+        "identity": "User"
+      },
+      "reshared_by_self": false,
+      "liked_by_self": false,
+      "id": 201981648
+    },
+    {
+      "body": "$BTC.X Bears can’t see into the great beyond, only see what’s in front of them.",
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      },
+      "created_at": "2020-03-22T20:27:43Z",
+      "mentioned_users": [],
+      "symbols": [
+        {
+          "watchlist_count": 157155,
+          "title": "Bitcoin BTC/USD",
+          "symbol": "BTC.X",
+          "is_following": false,
+          "id": 11418,
+          "aliases": [
+            "BTCUSD"
+          ]
+        }
+      ],
+      "source": {
+        "url": "http://www.stocktwits.com/mobile",
+        "id": 1149,
+        "title": "StockTwits for iOS"
+      },
+      "user": {
+        "username": "KingCaberViking",
+        "plus_tier": "month",
+        "name": "The 7th Dynastic Investor",
+        "classification": [],
+        "official": false,
+        "like_count": 10938,
+        "ideas": 13911,
+        "premium_room": "",
+        "following": 16,
+        "join_date": "2017-02-25",
+        "avatar_url": "https://avatars.stocktwits.com/production/969437/thumb-1577835898.png",
+        "followers": 269,
+        "watchlist_stocks_count": 27,
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/969437/thumb-1577835898.png",
+        "trade_app": false,
+        "id": 969437,
+        "identity": "User"
+      },
+      "reshared_by_self": false,
+      "liked_by_self": false,
+      "id": 201981482,
+      "likes": {
+        "user_ids": [
+          3110339,
+          3005334,
+          1384302,
+          1570446,
+          614452
+        ],
+        "total": 5
+      }
+    },
+    {
+      "body": "$BTC.X money slowly flowing out of alts and into Bitcoin, as to not create panic.  Bitcoin and a few others will remain.  Other crypto’s are just over priced databases that serve no real purpose.",
+      "entities": {
+        "sentiment": null
+      },
+      "conversation": {
+        "in_reply_to_message_id": null,
+        "parent_message_id": 201981348,
+        "parent": true,
+        "replies": 1
+      },
+      "created_at": "2020-03-22T20:26:14Z",
+      "mentioned_users": [],
+      "symbols": [
+        {
+          "watchlist_count": 157155,
+          "title": "Bitcoin BTC/USD",
+          "symbol": "BTC.X",
+          "is_following": false,
+          "id": 11418,
+          "aliases": [
+            "BTCUSD"
+          ]
+        }
+      ],
+      "source": {
+        "url": "http://www.stocktwits.com/mobile",
+        "id": 1149,
+        "title": "StockTwits for iOS"
+      },
+      "user": {
+        "username": "Oreoguy",
+        "plus_tier": "",
+        "name": "G I",
+        "classification": [],
+        "official": false,
+        "like_count": 40,
+        "ideas": 204,
+        "premium_room": "",
+        "following": 2,
+        "join_date": "2019-07-24",
+        "avatar_url": "https://avatars.stocktwits.com/production/2221716/thumb-1564071109.png",
+        "followers": 9,
+        "watchlist_stocks_count": 14,
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2221716/thumb-1564071109.png",
+        "trade_app": false,
+        "id": 2221716,
+        "identity": "User"
+      },
+      "reshared_by_self": false,
+      "liked_by_self": false,
+      "id": 201981348
+    },
+    {
+      "body": "$BTC.X Where are you Super Bitcoin, we are looking to bitcoin to holdup the crypto market.",
+      "entities": {
+        "chart": {
+          "large": "https://charts.stocktwits.com/production/large_201981305.jpg",
+          "url": "https://charts.stocktwits.com/production/original_201981305.jpg",
+          "thumb": "https://charts.stocktwits.com/production/small_201981305.jpg",
+          "original": "https://charts.stocktwits.com/production/original_201981305.jpg"
+        },
+        "sentiment": null
+      },
+      "created_at": "2020-03-22T20:25:50Z",
+      "mentioned_users": [],
+      "symbols": [
+        {
+          "watchlist_count": 157155,
+          "title": "Bitcoin BTC/USD",
+          "symbol": "BTC.X",
+          "is_following": false,
+          "id": 11418,
+          "aliases": [
+            "BTCUSD"
+          ]
+        }
+      ],
+      "source": {
+        "url": "http://www.stocktwits.com/mobile",
+        "id": 2095,
+        "title": "StockTwits For Android "
+      },
+      "user": {
+        "username": "tmoore711",
+        "plus_tier": "month",
+        "name": "tmoore",
+        "classification": [],
+        "official": false,
+        "like_count": 11280,
+        "ideas": 13671,
+        "premium_room": "",
+        "following": 23,
+        "join_date": "2018-11-03",
+        "avatar_url": "https://avatars.stocktwits.com/production/1693782/thumb-1579700333.png",
+        "followers": 505,
+        "watchlist_stocks_count": 6,
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1693782/thumb-1579700333.png",
+        "trade_app": false,
+        "id": 1693782,
+        "identity": "User"
+      },
+      "reshared_by_self": false,
+      "liked_by_self": false,
+      "id": 201981305
+    },
+    {
+      "body": "$BTC.X All we needed was a weekly close over $5,400, look at all these beartard hopefuls, can’t see the bigger picture.",
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      },
+      "created_at": "2020-03-22T20:25:47Z",
+      "mentioned_users": [],
+      "symbols": [
+        {
+          "watchlist_count": 157155,
+          "title": "Bitcoin BTC/USD",
+          "symbol": "BTC.X",
+          "is_following": false,
+          "id": 11418,
+          "aliases": [
+            "BTCUSD"
+          ]
+        }
+      ],
+      "source": {
+        "url": "http://www.stocktwits.com/mobile",
+        "id": 1149,
+        "title": "StockTwits for iOS"
+      },
+      "user": {
+        "username": "KingCaberViking",
+        "plus_tier": "month",
+        "name": "The 7th Dynastic Investor",
+        "classification": [],
+        "official": false,
+        "like_count": 10938,
+        "ideas": 13911,
+        "premium_room": "",
+        "following": 16,
+        "join_date": "2017-02-25",
+        "avatar_url": "https://avatars.stocktwits.com/production/969437/thumb-1577835898.png",
+        "followers": 269,
+        "watchlist_stocks_count": 27,
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/969437/thumb-1577835898.png",
+        "trade_app": false,
+        "id": 969437,
+        "identity": "User"
+      },
+      "reshared_by_self": false,
+      "liked_by_self": false,
+      "id": 201981300,
+      "likes": {
+        "user_ids": [
+          3005334,
+          969971
+        ],
+        "total": 2
+      }
+    },
+    {
+      "body": "$BTC.X I love when the dips bring out the baseless FUD bears, hitting that block button like it’s Whack-a-Mole",
+      "entities": {
+        "sentiment": null
+      },
+      "created_at": "2020-03-22T20:25:15Z",
+      "mentioned_users": [],
+      "symbols": [
+        {
+          "watchlist_count": 157155,
+          "title": "Bitcoin BTC/USD",
+          "symbol": "BTC.X",
+          "is_following": false,
+          "id": 11418,
+          "aliases": [
+            "BTCUSD"
+          ]
+        }
+      ],
+      "source": {
+        "url": "http://www.stocktwits.com/mobile",
+        "id": 1149,
+        "title": "StockTwits for iOS"
+      },
+      "user": {
+        "username": "Vannabis",
+        "plus_tier": "",
+        "name": "A-A-RON",
+        "classification": [],
+        "official": false,
+        "like_count": 775,
+        "ideas": 186,
+        "premium_room": "",
+        "following": 21,
+        "join_date": "2020-02-20",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "followers": 5,
+        "watchlist_stocks_count": 22,
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "trade_app": false,
+        "id": 3110339,
+        "identity": "User"
+      },
+      "reshared_by_self": false,
+      "liked_by_self": false,
+      "id": 201981242,
+      "likes": {
+        "user_ids": [
+          969437
+        ],
+        "total": 1
+      }
+    },
+    {
+      "body": "$BTC.X today is the bounce back to .0019. Don’t listen to these fools",
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      },
+      "created_at": "2020-03-22T20:24:46Z",
+      "mentioned_users": [],
+      "symbols": [
+        {
+          "watchlist_count": 157155,
+          "title": "Bitcoin BTC/USD",
+          "symbol": "BTC.X",
+          "is_following": false,
+          "id": 11418,
+          "aliases": [
+            "BTCUSD"
+          ]
+        }
+      ],
+      "source": {
+        "url": "http://www.stocktwits.com/mobile",
+        "id": 1149,
+        "title": "StockTwits for iOS"
+      },
+      "user": {
+        "username": "CBWARE",
+        "plus_tier": "",
+        "name": "Chandler ware",
+        "classification": [],
+        "official": false,
+        "like_count": 194,
+        "ideas": 376,
+        "premium_room": "",
+        "following": 27,
+        "join_date": "2019-05-30",
+        "avatar_url": "https://avatars.stocktwits.com/production/2110117/thumb-1584761792.png",
+        "followers": 11,
+        "watchlist_stocks_count": 35,
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2110117/thumb-1584761792.png",
+        "trade_app": false,
+        "id": 2110117,
+        "identity": "User"
+      },
+      "reshared_by_self": false,
+      "liked_by_self": false,
+      "id": 201981207,
+      "likes": {
+        "user_ids": [
+          969437
+        ],
+        "total": 1
+      }
+    },
+    {
+      "body": "$BTC.X I think a few more retards could buy into this bounce. Lets see...",
+      "entities": {
+        "sentiment": {
+          "basic": "Bearish"
+        }
+      },
+      "created_at": "2020-03-22T20:23:49Z",
+      "mentioned_users": [],
+      "symbols": [
+        {
+          "watchlist_count": 157155,
+          "title": "Bitcoin BTC/USD",
+          "symbol": "BTC.X",
+          "is_following": false,
+          "id": 11418,
+          "aliases": [
+            "BTCUSD"
+          ]
+        }
+      ],
+      "source": {
+        "url": "http://www.stocktwits.com/mobile",
+        "id": 1149,
+        "title": "StockTwits for iOS"
+      },
+      "user": {
+        "username": "FundamentalsOnly",
+        "plus_tier": "",
+        "name": "Tim",
+        "classification": [],
+        "official": false,
+        "like_count": 422,
+        "ideas": 809,
+        "premium_room": "",
+        "following": 5,
+        "join_date": "2019-09-25",
+        "avatar_url": "https://avatars.stocktwits.com/production/2827643/thumb-1569417462.png",
+        "followers": 7,
+        "watchlist_stocks_count": 40,
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2827643/thumb-1569417462.png",
+        "trade_app": false,
+        "id": 2827643,
+        "identity": "User"
+      },
+      "reshared_by_self": false,
+      "liked_by_self": false,
+      "id": 201981111
+    },
+    {
+      "body": "$BTC.X",
+      "entities": {
+        "sentiment": {
+          "basic": "Bearish"
+        }
+      },
+      "created_at": "2020-03-22T20:23:06Z",
+      "mentioned_users": [],
+      "symbols": [
+        {
+          "watchlist_count": 157155,
+          "title": "Bitcoin BTC/USD",
+          "symbol": "BTC.X",
+          "is_following": false,
+          "id": 11418,
+          "aliases": [
+            "BTCUSD"
+          ]
+        }
+      ],
+      "source": {
+        "url": "http://www.stocktwits.com/mobile",
+        "id": 1149,
+        "title": "StockTwits for iOS"
+      },
+      "user": {
+        "username": "TC208",
+        "plus_tier": "",
+        "name": "Travus Cox",
+        "classification": [],
+        "official": false,
+        "like_count": 35,
+        "ideas": 8,
+        "premium_room": "",
+        "following": 2,
+        "join_date": "2019-05-02",
+        "avatar_url": "https://avatars.stocktwits.com/production/2051554/thumb-1556822845.png",
+        "followers": 2,
+        "watchlist_stocks_count": 2,
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2051554/thumb-1556822845.png",
+        "trade_app": false,
+        "id": 2051554,
+        "identity": "User"
+      },
+      "reshared_by_self": false,
+      "liked_by_self": false,
+      "id": 201981053
+    }
+  ],
+  "response": {
+    "status": 200
+  }
+}
