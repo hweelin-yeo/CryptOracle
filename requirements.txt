@@ -3,3 +3,4 @@ simplejson==3.17.0
 Flask
 gunicorn
 apscheduler
+pymongo
