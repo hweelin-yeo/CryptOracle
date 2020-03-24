@@ -3,7 +3,6 @@ from requestors import ST_BASE_PARAMS, ST_BASE_URL
 import json
 import os.path
 from datetime import datetime
-from flask import Flask, request
 
 # Select which library to use for handling HTTP request.  If running on Google App Engine, use `GAE`.
 # Otherwise, use `Requests` which is based on the `requests` module.
@@ -19,23 +18,11 @@ SYMBOLS = ['BTC.X', 'BSV.X', 'BNB.X', 'BCH.X',
 SYMBOLS_FINAL = ['EOS.X', 'DOGE.X', 'BTC.X',
                'ETH.X', 'LTC.X']
 
-app = Flask(__name__)
-
-@app.route("/")
-def hello():
-  return "Hello World!"
-
-@app.route("/run")
-def generate_json():
-  return "test"
-
-#class Run(Resource):
-#  def get(self):
-#    for symbol in SYMBOLS:
-#      dt_string = datetime.now().strftime("%d-%m-%H:%M")
-#      res = without_token_get_stock_stream(symbol, "json/compiled_" + symbol + dt_string + ".json")
-#      print(res)
-#      return res
+def cronjob():
+  print("Cron job is running")
+  for symbol in SYMBOLS:
+    dt_string = datetime.now().strftime("%d-%m-%H:%M")
+    print(get_stock_stream(symbol, "json/compiled_" + symbol + dt_string + ".json"))
 
 # ---------------------------------------------------------------------
 # Basic StockTwits interface
@@ -66,7 +53,7 @@ def get_stock_stream(symbol, output_filename, params={}):
     """
     print("printing stock stream")
     all_params = ST_BASE_PARAMS.copy()
-    for k, v in params.iteritems():
+    for k, v in params.items():
         all_params[k] = v
     result = R.get_json(ST_BASE_URL + 'streams/symbol/{}.json'.format(symbol), params=all_params)
 
