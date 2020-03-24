@@ -27,7 +27,7 @@ def hello():
 # Mongo setup
 # ---------------------------------------------------------------------
 
-mongo_url = os.environ['MONGOLAB_URI']
+mongo_url = "mongodb://heroku_kvptfcm8:vbekldoic9poi92kkp810rvk7@ds141185.mlab.com:41185/heroku_kvptfcm8"
 db_name = urlparse.urlparse(mongo_url).path[1:]
 client = MongoClient(mongo_url)
 self.db = client[db_name]
