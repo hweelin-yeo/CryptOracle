@@ -4,4 +4,3 @@ Flask
 gunicorn
 apscheduler
 pymongo
-urlparse
