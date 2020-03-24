@@ -19,7 +19,7 @@ SYMBOLS_FINAL = ['EOS.X', 'DOGE.X', 'BTC.X',
 
 app = Flask(__name__)
 
-@app.route(“/”)
+@app.route("/")
 def hello():
   return "App is running."
 
