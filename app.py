@@ -24,9 +24,7 @@ SYMBOLS_FINAL = ['EOS.X', 'DOGE.X', 'BTC.X',
 # https://www.mongodb.com/blog/post/getting-started-with-python-and-mongodb
 # ---------------------------------------------------------------------
 
-MONGO_URL = os.environ.get('MONGODB_URI')
-if not MONGO_URL:
-  MONGO_URL = "mongodb://heroku_kvptfcm8:vbekldoic9poi92kkp810rvk7@ds141185.mlab.com:41185/heroku_kvptfcm8?retryWrites=false"
+MONGO_URL = "mongodb://heroku_kvptfcm8:vbekldoic9poi92kkp810rvk7@ds141185.mlab.com:41185/heroku_kvptfcm8?retryWrites=false"
 db_name = urlparse(MONGO_URL).path[1:]
 client = MongoClient(MONGO_URL)
 db = client[db_name]
