@@ -16,7 +16,7 @@ EXCHANGES = ['NYSE', 'NASDAQ', 'NYSEMkt', 'NYSEArca']
 SYMBOLS = ['BTC.X', 'BSV.X', 'BNB.X', 'BCH.X',
            'DOGE.X', 'EOS.X', 'XMR.X', 'XRP.X',
            'ETH.X', 'LTC.X']
-SYMBOLS_FINAL = ['EOS.X', 'DOGE.X', 'BTC.X',
+SYMBOLS_FINAL = ['BSV.X', 'DOGE.X', 'BCH.X', 'BTC.X',
                'ETH.X', 'LTC.X']
 
 # ---------------------------------------------------------------------
@@ -42,7 +42,7 @@ def getRuns():
 
 def cronjob():
   print("Cron job is running")
-  for symbol in SYMBOLS:
+  for symbol in SYMBOLS_FINAL:
     dt_string = datetime.now().strftime("%d-%m-%H:%M")
     print(without_token_get_stock_stream(symbol, "json/compiled_" + symbol + dt_string + ".json"))
 
