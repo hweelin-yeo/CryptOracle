@@ -26,8 +26,7 @@ SYMBOLS_FINAL = ['EOS.X', 'DOGE.X', 'BTC.X',
 
 MONGO_URL = os.environ.get('MONGODB_URI')
 if not MONGO_URL:
-  MONGO_URL = "mongodb://heroku_kvptfcm8:vbekldoic9poi92kkp810rvk7@ds141185.mlab.com:41185/heroku_kvptfcm8"
-
+  MONGO_URL = "mongodb://heroku_kvptfcm8:vbekldoic9poi92kkp810rvk7@ds141185.mlab.com:41185/heroku_kvptfcm8?retryWrites=false"
 db_name = urlparse(MONGO_URL).path[1:]
 client = MongoClient(MONGO_URL)
 db = client[db_name]
@@ -67,6 +66,7 @@ def without_token_get_stock_stream(symbol, output_filename, params={}):
 #  f.close()
 
   runs = db.runs
+  pdb.set_trace()
   run_result = runs.insert_one(result)
   print('One run: {0}'.format(run_result.inserted_id))
   return result
@@ -92,4 +92,5 @@ def get_stock_stream(symbol, output_filename, params={}):
     return result
 
 if __name__ == '__main__':
-  app.run()
+  #app.run()
+  cronjob()
