@@ -55,8 +55,7 @@ def cronjob():
 def without_token_get_stock_stream(symbol, output_filename, params={}):
   """ gets stream of messages for given symbol"""
   result = R.get_json(ST_BASE_URL + 'streams/symbol/{}.json'.format(symbol))
-  
-  print(result)
+
 #  if os.path.isfile(output_filename):
 #    f = open(output_filename, "a+")
 #  else:
@@ -66,9 +65,8 @@ def without_token_get_stock_stream(symbol, output_filename, params={}):
 #  f.close()
 
   runs = db.runs
-  pdb.set_trace()
-  run_result = runs.insert_one(result)
-  print('One run: {0}'.format(run_result.inserted_id))
+#  pdb.set_trace()
+  run_result = runs.insert_many(result["messages"])
   return result
 
 def get_stock_stream(symbol, output_filename, params={}):
@@ -92,5 +90,5 @@ def get_stock_stream(symbol, output_filename, params={}):
     return result
 
 if __name__ == '__main__':
-  #app.run()
-  cronjob()
+  app.run()
+#  cronjob()

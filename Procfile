@@ -1,2 +1,2 @@
 clock: python cronjob.py
-web: gunicorn app:application
+web: gunicorn app:app
