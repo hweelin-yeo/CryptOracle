@@ -28,16 +28,16 @@ Use Spark; analyze sentiments and predict prices. Feature engineering  would be 
 
 # Reasons for choosing currencies
 3/24				3/22.             Avg
-BCH: 18 			16			17
-BNB: 10			7			-
-BSV: 23			22			22.5
-BTC: 22			10			16
-Doge: 18.                  19			18.5
-EOS: 2			0			-
-ETH: 11			17			14
-LTC: 17			12			14.5
-XMR: 3			2			-
-XRP: 15			9			12
+- BCH: 18 			16			17
+- BNB: 10			7			-
+- BSV: 23			22			22.5
+- BTC: 22			10			16
+- Doge: 18.                  19			18.5
+- EOS: 2			0			-
+- ETH: 11			17			14
+- LTC: 17			12			14.5
+- XMR: 3			2			-
+- XRP: 15			9			12
 
 
 BSV, Doge, BCH, BTC, ETH, LTC
