@@ -34,8 +34,7 @@ app = Flask(__name__)
 @app.route("/")
 def getRuns():
   res = db.runs.count()
-  print(res)
-  return res
+  return "Number of json messages is " + str(res)
 
 # ---------------------------------------------------------------------
 # Cronjob setup
