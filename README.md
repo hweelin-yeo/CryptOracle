@@ -9,15 +9,21 @@ window is set as +- 1 hour?
 6. Combined dataset tuple - (timestamp, symbol, price, volume, trend in price, sentiment, trend in sentiment, tweet, hashrate)
 7. Model - think of inputs
 
-## Original resources
-- Getting StockTwits data: https://github.com/hamx0r/stocktwits
-- Stocktwits: https://api.stocktwits.com/developers/docs/authentication
-- Python, Heroku, Flask: https://medium.com/@dushan14/create-a-web-application-with-python-flask-postgresql-and-deploy-on-heroku-243d548335cc
-
 # From this repo
 - Navigate to stocktwits
 - pip install -r requirements.txt
 - python2 api.py
+
+# To run spark job:
+- run `python setup.py install` to get pymongo_spark (https://github.com/mongodb/mongo-hadoop/blob/master/spark/src/main/python/README.rst)
+- Additional steps: https://github.com/mongodb/mongo-hadoop/blob/master/spark/src/main/python/README.rst
+- Get jars: https://github.com/mongodb/mongo-hadoop
+- run `spark-submit process_json.py`
+
+## Original resources
+- Getting StockTwits data: https://github.com/hamx0r/stocktwits
+- Stocktwits: https://api.stocktwits.com/developers/docs/authentication
+- Python, Heroku, Flask: https://medium.com/@dushan14/create-a-web-application-with-python-flask-postgresql-and-deploy-on-heroku-243d548335cc
 
 # Applying for twitter
 - https://developer.twitter.com/en.html

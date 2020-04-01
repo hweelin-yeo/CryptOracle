@@ -46,6 +46,9 @@ def cronjob():
     dt_string = datetime.now().strftime("%d-%m-%H:%M")
     print(without_token_get_stock_stream(symbol, "json/compiled_" + symbol + dt_string + ".json"))
 
+def keepAliveJob():
+  print("Keeping heroku alive yo.")
+
 # ---------------------------------------------------------------------
 # StockTwits
 # ---------------------------------------------------------------------
