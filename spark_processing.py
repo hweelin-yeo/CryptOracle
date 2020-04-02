@@ -33,9 +33,17 @@ if __name__ == '__main__':
 
     # Start spark session
     # sparkConf = SparkConf().set("spark.jars.packages","org.mongodb.spark:mongo-spark-connector_2.11:2.2.0")
-    sc = SparkSession.builder.config('spark.jars.packages','org.mongodb.spark:mongo-spark-connector_2.11:2.2.0' ).getOrCreate()
-    # sc = SparkContext(conf = sparkConf)
-    json_rdd = sc.mongoRDD(MONGODB_URI)
+    
+    # Option 1:
+    # sc = SparkSession.builder.config('spark.mongodb.input.uri', MONGODB_URI).getOrCreate()
+    # json_rdd = sc.mongoRDD(MONGODB_URI)
+
+    # OPTION 2:provided by https://groups.google.com/forum/#!topic/mongodb-user/ahKXPwlKyxA:
+    df = sqlContext.read.format("com.mongodb.spark.sql.DefaultSource")
+                    .option("spark.mongodb.input.uri", MONGODB_URI)
+                    .load()
+	# Print first record
+	df.first()
 
     summarize_rdd = data_rdd.map(summarize) # train_df = sqlcontext.jsonRDD(projected_rdd, schema)
     summarize_rdd.first()
