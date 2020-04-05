@@ -2,8 +2,9 @@
 
 ## Steps
 1. Tweets - generate tweets
-2. Tweets - clean it up, use spark to extract important information (timestamp, symbol, sentiment, trend in sentiment, tweet)
-window is set as +- 1 hour?
+2. Tweets - clean it up, use spark to extract important information (timestamp, symbol, sentiment, acknowledgements, tweet)
+window is set as +- 1 hours?
+per window: (highest weighted sentiment, trend in sentiment, volume of tweets)
 4. Historical price data -  (timestamp, symbol, price, volume, trend in price)
 5. Cryptospecific feature (timestamp, symbol, hashrate)
 6. Combined dataset tuple - (timestamp, symbol, price, volume, trend in price, sentiment, trend in sentiment, tweet, hashrate)
